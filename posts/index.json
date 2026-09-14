@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T17:25:07.716618+00:00",
+  "generated_at": "2026-09-14T15:25:07.458647+00:00",
   "entries": [
     {
       "path": "my-diary/Diary-2021/00_index.md",
@@ -8,7 +8,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "fa5038ad7fe0ba92"
+      "sha256_short": "ec75369d872e4c78"
     },
     {
       "path": "my-diary/Diary-2016/00_index.md",
@@ -17,7 +17,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "e140e29684dca193"
+      "sha256_short": "61088affb852c836"
     },
     {
       "path": "my-diary/Diary-2025/00_index.md",
@@ -26,7 +26,7 @@
       "word_count": 1220,
       "image_count": 0,
       "file_size": 7944,
-      "sha256_short": "470e4dcb755c9695"
+      "sha256_short": "10263c7cc755a470"
     },
     {
       "path": "my-diary/Diary-2025/01_第1周（2024.12.30-2025.01.05）儒略历与格里高利历.md",
@@ -539,7 +539,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "45cc85086d6696d5"
+      "sha256_short": "e6db600eb24ed11a"
     },
     {
       "path": "my-diary/Diary-2002-2003/00_index.md",
@@ -548,7 +548,7 @@
       "word_count": 90,
       "image_count": 0,
       "file_size": 502,
-      "sha256_short": "53afbd7ed6a431fe"
+      "sha256_short": "8aee7b68ad624bef"
     },
     {
       "path": "my-diary/Diary-2002-2003/01_2002（壬午）.md",
@@ -575,7 +575,7 @@
       "word_count": 66,
       "image_count": 0,
       "file_size": 349,
-      "sha256_short": "e840f3bc5dfdfe8d"
+      "sha256_short": "8c79ddf5614178b5"
     },
     {
       "path": "my-diary/Diary-2022/00_index.md",
@@ -584,7 +584,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "52ada585b920050b"
+      "sha256_short": "99b3cfe61312e82a"
     },
     {
       "path": "my-diary/Diary-2026/00_index.md",
@@ -592,8 +592,8 @@
       "label": "my-diary/Diary-2026",
       "word_count": 769,
       "image_count": 0,
-      "file_size": 5019,
-      "sha256_short": "008e27c5a08c71ef"
+      "file_size": 5020,
+      "sha256_short": "d99a4df6c8aabc47"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦.md",
@@ -914,10 +914,10 @@
       "path": "my-diary/Diary-2026/36_第37周（2026.09.07-2026.09.13）.md",
       "title": "第37周（2026.09.07-2026.09.13）",
       "label": "my-diary/Diary-2026",
-      "word_count": 836,
+      "word_count": 3632,
       "image_count": 0,
-      "file_size": 4496,
-      "sha256_short": "e97f471fff9615a7"
+      "file_size": 20379,
+      "sha256_short": "36f14e35db6d27a2"
     },
     {
       "path": "my-diary/Diary-2015/00_index.md",
@@ -926,7 +926,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "9d9aecb417142db6"
+      "sha256_short": "4cb3bfc6b4710268"
     },
     {
       "path": "my-diary/Diary-2006-2007/00_index.md",
@@ -935,7 +935,7 @@
       "word_count": 90,
       "image_count": 0,
       "file_size": 502,
-      "sha256_short": "fb7b1054be9ad8dd"
+      "sha256_short": "681fc15cb188aeee"
     },
     {
       "path": "my-diary/Diary-2006-2007/01_2006（丙戌）.md",
@@ -962,7 +962,7 @@
       "word_count": 137,
       "image_count": 0,
       "file_size": 812,
-      "sha256_short": "317b8d95942d55e1"
+      "sha256_short": "0c5226025cec7164"
     },
     {
       "path": "my-diary/Diary-2019/01_1月、2月、3月、4月（2019.01.01 - 2019.04.30）.md",
@@ -1034,7 +1034,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "ff2993edc869e746"
+      "sha256_short": "d7970fe538f7479a"
     },
     {
       "path": "my-diary/Diary-2023/00_index.md",
@@ -1043,7 +1043,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "605c1b4e4f512c51"
+      "sha256_short": "8b61b7e1a17f9eb8"
     },
     {
       "path": "my-diary/Diary-2024/00_index.md",
@@ -1052,7 +1052,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "58c7e6356d8f9442"
+      "sha256_short": "235c06f200961894"
     },
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -1061,7 +1061,7 @@
       "word_count": 63,
       "image_count": 0,
       "file_size": 345,
-      "sha256_short": "17f71c4ac5341dad"
+      "sha256_short": "3f9b4e9a60737612"
     },
     {
       "path": "the-lore/About-Diary/00_index.md",
@@ -1070,7 +1070,7 @@
       "word_count": 74,
       "image_count": 0,
       "file_size": 405,
-      "sha256_short": "0e36b164ccdb727d"
+      "sha256_short": "2978a4130c58d060"
     },
     {
       "path": "the-lore/About-Diary/01_人物设定.md",
