@@ -75,11 +75,11 @@
     "title": "「Diary」2026",
     "filename": "Diary-2026",
     "label": "my-diary",
-    "updated": "2026-09-14T15:24:33+00:00",
-    "word_count": 101723,
+    "updated": "2026-09-16T01:24:49+00:00",
+    "word_count": 101732,
     "image_count": 1,
     "split_dir": "posts/my-diary/Diary-2026",
-    "comment_count": 36,
+    "comment_count": 37,
     "comments": [
       {
         "title": "第1周（2025.12.29-2026.01.04）元旦",
@@ -260,6 +260,11 @@
         "title": "第37周（2026.09.07-2026.09.13）",
         "created_at": "2026-09-10T03:10:26+00:00",
         "updated_at": "2026-09-14T15:24:33+00:00"
+      },
+      {
+        "title": "第38周",
+        "created_at": "2026-09-16T01:24:49+00:00",
+        "updated_at": "2026-09-16T01:24:49+00:00"
       }
     ]
   },
