@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:17:40.021510+00:00",
+  "generated_at": "2026-09-20T06:00:02.305669+00:00",
   "entries": [
     {
       "path": "my-diary/Diary-2021/00_index.md",
@@ -23,10 +23,10 @@
       "path": "my-diary/Diary-2025/00_index.md",
       "title": "「Diary」2025",
       "label": "my-diary/Diary-2025",
-      "word_count": 1220,
+      "word_count": 1215,
       "image_count": 0,
-      "file_size": 7944,
-      "sha256_short": "9fc73cbb7f94505a"
+      "file_size": 7914,
+      "sha256_short": "4ac5218c200eb845"
     },
     {
       "path": "my-diary/Diary-2025/01_第1周（2024.12.30-2025.01.05）儒略历与格里高利历.md",
@@ -104,10 +104,10 @@
       "path": "my-diary/Diary-2025/09_第9周（2025.02.24-2025.03.02）奈氏准则与香农定理.md",
       "title": "第9周（2025.02.24-2025.03.02）奈氏准则与香农定理",
       "label": "my-diary/Diary-2025",
-      "word_count": 961,
+      "word_count": 948,
       "image_count": 0,
-      "file_size": 3153,
-      "sha256_short": "c9ae65f0c752e2bc"
+      "file_size": 3115,
+      "sha256_short": "285d3da9e3898b18"
     },
     {
       "path": "my-diary/Diary-2025/10_第10周（2025.03.03-2025.03.09）.md",
@@ -416,13 +416,13 @@
       "sha256_short": "8620e646d9165041"
     },
     {
-      "path": "my-diary/Diary-2025/44_第44周（2025.10.27-2025.11.02）蛞蝓的哲理.md",
-      "title": "第44周（2025.10.27-2025.11.02）蛞蝓的哲理",
+      "path": "my-diary/Diary-2025/44_第44周（2025.10.27-2025.11.02）.md",
+      "title": "第44周（2025.10.27-2025.11.02）",
       "label": "my-diary/Diary-2025",
-      "word_count": 2228,
+      "word_count": 2135,
       "image_count": 0,
-      "file_size": 8084,
-      "sha256_short": "acb9267d4b9888d4"
+      "file_size": 7844,
+      "sha256_short": "1e3c656a40781f21"
     },
     {
       "path": "my-diary/Diary-2025/45_第45周（2025.11.03-2025.11.09）海因里希法则.md",
@@ -482,10 +482,10 @@
       "path": "my-diary/Diary-2025/51_第51周（2025.12.15-2025.12.21）皮亚诺余项与拉格朗日余项、冬至与饺子.md",
       "title": "第51周（2025.12.15-2025.12.21）皮亚诺余项与拉格朗日余项、冬至与饺子",
       "label": "my-diary/Diary-2025",
-      "word_count": 1203,
+      "word_count": 1206,
       "image_count": 0,
-      "file_size": 3789,
-      "sha256_short": "0fa52573759cba98"
+      "file_size": 3800,
+      "sha256_short": "02803de0dd8b6c05"
     },
     {
       "path": "my-diary/Diary-2025/52_第52周（2025.12.22-2025.12.28）位移极化与取向极化.md",
@@ -493,8 +493,8 @@
       "label": "my-diary/Diary-2025",
       "word_count": 3416,
       "image_count": 0,
-      "file_size": 10778,
-      "sha256_short": "b9d3d6a743139498"
+      "file_size": 10784,
+      "sha256_short": "803d61b97cc9ce1b"
     },
     {
       "path": "my-diary/Diary-2025/53_附录1：音乐作品汇总.md",
@@ -590,10 +590,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 778,
+      "word_count": 790,
       "image_count": 0,
-      "file_size": 5080,
-      "sha256_short": "c06ecfd85ce3c077"
+      "file_size": 5158,
+      "sha256_short": "4ceeb95adc518770"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦.md",
@@ -902,31 +902,31 @@
       "sha256_short": "d9ffadc22e45e5f1"
     },
     {
-      "path": "my-diary/Diary-2026/35_第36周（2026.08.31-2026.09.06）.md",
-      "title": "第36周（2026.08.31-2026.09.06）",
+      "path": "my-diary/Diary-2026/35_第36周（2026.08.31-2026.09.06）标准代号.md",
+      "title": "第36周（2026.08.31-2026.09.06）标准代号",
       "label": "my-diary/Diary-2026",
-      "word_count": 4873,
+      "word_count": 4867,
       "image_count": 0,
-      "file_size": 20667,
-      "sha256_short": "9510d0ca0c172b34"
+      "file_size": 20749,
+      "sha256_short": "3e8a55c25339b0d3"
     },
     {
       "path": "my-diary/Diary-2026/36_第37周（2026.09.07-2026.09.13）.md",
       "title": "第37周（2026.09.07-2026.09.13）",
       "label": "my-diary/Diary-2026",
-      "word_count": 3860,
+      "word_count": 4234,
       "image_count": 0,
-      "file_size": 21767,
-      "sha256_short": "9af9ad3f5285b7c4"
+      "file_size": 22964,
+      "sha256_short": "2e143af650999cc7"
     },
     {
-      "path": "my-diary/Diary-2026/37_第38周.md",
-      "title": "第38周",
+      "path": "my-diary/Diary-2026/37_第38周（2026.09.14-2026.09.20）.md",
+      "title": "第38周（2026.09.14-2026.09.20）",
       "label": "my-diary/Diary-2026",
-      "word_count": 166,
+      "word_count": 174,
       "image_count": 0,
-      "file_size": 1055,
-      "sha256_short": "b1c5899be4119a3c"
+      "file_size": 1082,
+      "sha256_short": "478448d6ef3cfd6d"
     },
     {
       "path": "my-diary/Diary-2015/00_index.md",
