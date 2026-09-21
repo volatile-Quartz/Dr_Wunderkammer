@@ -1,6 +1,6 @@
 {
   "repository": "volatile-Quartz/Dr_Wunderkammer",
-  "generated_at": "2026-09-21T07:12:15.243777+00:00",
+  "generated_at": "2026-09-21T07:22:29.388565+00:00",
   "total_issues": 18,
   "issues": [
     {
@@ -8,12 +8,12 @@
       "title": "About Diary",
       "filename": "About-Diary",
       "label": "the-lore",
-      "updated": "2026-09-11T05:48:37+00:00",
-      "word_count": 56,
+      "updated": "2026-09-21T07:21:58+00:00",
+      "word_count": 61,
       "image_count": 0,
       "url": "https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/1",
       "md_path": "posts/the-lore/About-Diary",
-      "content": "# About Diary\n\n> 来源：[issue #1](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/1) | 评论数 1 | 生成于 2026-09-21 13:46\n\n| 标题 | 字数 | 图片 | 更新时间 |\n| :--: | :-: | :--: | :--: |\n| [人物设定](01_人物设定.md) | 27 | 0 | 2026-09-11 13:48 |\n\n> 口径：字数=去 Markdown 后中文+英文+数字总数，图片=Markdown 图片数。重跑脚本即全量刷新。\n\n\n# 人物设定\n\n名字 | 含义 | 曾用名\n:-: | :-: | :-:\na² | 第一人称代词 | r=1-sinθ\nH₂SO₄ | 父 | -\nHNO₃ | 母 | -\nQ₂C | 蛴螬 | -\nCe₃N₉ | Mr.Centipede | -\nP₂S₅ | 螵蛸 | -\n"
+      "content": "# About Diary\n\n> 来源：[issue #1](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/1) | 评论数 1 | 生成于 2026-09-21 15:22\n\n| 标题 | 字数 | 图片 | 更新时间 |\n| :--: | :-: | :--: | :--: |\n| [人物设定](01_人物设定.md) | 32 | 0 | 2026-09-21 15:21 |\n\n> 口径：字数=去 Markdown 后中文+英文+数字总数，图片=Markdown 图片数。重跑脚本即全量刷新。\n\n\n# 人物设定\n\n名字 | 含义\n:-: | :-: \na² / r=1-sinθ | 第一人称代词 \nH₂SO₄ | ちち \nHNO₃ | はは \nQ₂C | 蛴螬 \nCe₃N₉ | Uncle.Centipede \nP₂S₅ | 螵蛸 \nAunt.Fume | 大喷姑\nAunt.Puff | 小喷姑\n"
     },
     {
       "issue_number": 7,

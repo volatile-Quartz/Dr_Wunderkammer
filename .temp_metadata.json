@@ -58,8 +58,8 @@
     "title": "About Diary",
     "filename": "About-Diary",
     "label": "the-lore",
-    "updated": "2026-09-11T05:48:37+00:00",
-    "word_count": 56,
+    "updated": "2026-09-21T07:21:58+00:00",
+    "word_count": 61,
     "image_count": 0,
     "split_dir": "posts/the-lore/About-Diary",
     "comment_count": 1,
@@ -67,7 +67,7 @@
       {
         "title": "人物设定",
         "created_at": "2026-06-11T05:58:15+00:00",
-        "updated_at": "2026-09-11T05:48:37+00:00"
+        "updated_at": "2026-09-21T07:21:58+00:00"
       }
     ]
   },
