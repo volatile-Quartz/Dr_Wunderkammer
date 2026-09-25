@@ -1,0 +1,137 @@
+{
+  "_说明": "Last.fm 听歌记录整理规则配置文件。脚本每次处理时从本文件读取；新增/修改条目直接编辑即可，无需改代码。字段：blacklist_artists=按歌手剔除（片段匹配）；filter_keywords=按关键词剔除；solo_alias=同人异名合并；feat_map=主创 feat. 演唱；amp_map=并列合作 & 合并；no_split=含分隔符但不可拆的组合名；title_suffix=曲名须省略的版本/风格括注；artist_by_song=按歌修正歌手（规范化后按『歌手|曲名』匹配）；title_by_song=按歌修正曲名；blacklist_tracks=按『歌手|曲名』整条剔除；extra_rules=附加规则开关。",
+
+  "blacklist_artists": [
+    "小陈在农村", "柏年说", "内部看美国", "太阳星sunstar", "成都坊屋宗介", "肝帝董佳宁",
+    "小雪花酱", "米卡-Official", "VEEE_薇", "全景历史地理", "泽野山格", "全球动态局势",
+    "时局news", "我捞捞捞", "麻薯波比呀", "我是米蕉呀", "云空云笺", "冰汝看美国", "全荃",
+    "爱因是蛋", "慢半拍的喵yy", "漆晴弦卷心", "AnonTokyo董事长", "Soleil-JJ",
+    "燕三嘤嘤嘤", "モナカの音楽室",
+    "睡眠音楽", "DJ Meditation", "HEALING MUSIC", "BGM向上", "DJ Relax BGM"
+  ],
+
+  "filter_keywords": [
+    "水音世界观", "某二两", "军事", "解说", "配音", "asmr", "歌って", "翻唱",
+    "新闻", "杂谈", "露露卡", "武装兔", "cover", "フリーbgm", "1時間耐久"
+  ],
+
+  "blacklist_tracks": [
+    "纯音乐|林中漫步",
+    "原声带|黑猫警长",
+    "Vince丷 & 见过夏天P & Ciyo|反乌托邦×拼接遗憾×Sinos De Natal",
+    "懒懒Q3Q|君の幸せについて / 关于你的幸福【宵崎奏 × 初音ミク】",
+    "CMJ & 好多纯音乐|山海不相逢"
+  ],
+
+  "solo_alias": {
+    "sakuzyo": "削除",
+    "Hyun": "HyuN",
+    "HyuN/YURI": "HyuN, Yuri",
+    "Neutral Moon, Hyun": "Neutral Moon, HyuN",
+    "Sennzai, Hyun": "Sennzai, HyuN",
+    "Plum - Melodic Artist": "Plum",
+    "Bill Brown/Mikael Sandgren": "Mikael Sandgren/Bill Brown",
+    "过气的DJ·CHEN、DJ铁柱Remix": "DJ·CHEN",
+    "Disney、Shakira": "Shakira"
+  },
+
+  "feat_map": {
+    "麻枝准/やなぎなぎ": ["麻枝准", "やなぎなぎ"],
+    "MIMI/初音ミク/可不": ["MIMI", "初音ミク & 可不"],
+    "MIMI/重音テト": ["MIMI", "重音テト"],
+    "MIMI/saewool": ["MIMI", "saewool"],
+    "MIMI、七夜月奏": ["MIMI", "七夜月奏"],
+    "MIMI/七夜月奏": ["MIMI", "七夜月奏"],
+    "立入禁止、歌愛ユキ": ["立入禁止", "歌愛ユキ"],
+    "立入禁止/歌愛ユキ": ["立入禁止", "歌愛ユキ"],
+    "はるよよ/夢ノ結唱 ROSE": ["はるよよ", "夢ノ結唱 ROSE"],
+    "samfree、初音ミク、鏡音リン": ["samfree", "初音ミク & 鏡音リン"],
+    "椎名もた/鏡音リン": ["椎名もた", "鏡音リン"],
+    "d0tc0mmie/Gumi": ["d0tc0mmie", "Gumi"],
+    "Room97/nayuta": ["Room97", "nayuta"],
+    "Islet/倚水": ["Islet", "倚水"],
+    "xaev/mopearound": ["xaev", "mopearound"],
+    "酔シグレ、Lucia": ["酔シグレ", "Lucia"],
+    "MAX/Chromeo": ["MAX", "Chromeo"],
+    "Two Steps From Hell、Merethe Soltvedt": ["Two Steps From Hell", "Merethe Soltvedt"],
+    "HOYO-MiX、真栗": ["HOYO-MiX", "真栗"],
+    "MC 몽、Mellow": ["MC 몽", "Mellow"],
+    "未来古代楽団": ["未来古代楽団", "GUMI"],
+    "Shun": ["Shun", "花隈千冬"],
+    "TAK、初音ミク": ["TAK", "初音ミク & 重音テト"],
+    "TAK/初音ミク": ["TAK", "初音ミク & 重音テト"],
+    "HyuN, Syepias": ["HyuN", "Syepias"],
+    "HyuN, LyuU": ["HyuN", "LyuU"],
+    "HyuN, 月下Lia": ["HyuN", "月下Lia"],
+    "HyuN, Ms.Valentine": ["HyuN", "Ms.Valentine"],
+    "HyuN, 蔡花零": ["HyuN", "蔡花零"],
+    "HyuN, Yuri": ["HyuN", "Yuri"],
+    "Sennzai, HyuN": ["HyuN", "Sennzai"]
+  },
+
+  "amp_map": {
+    "蒋蒋、曲肖冰": "蒋蒋 & 曲肖冰",
+    "夏喘喘、纱朵": "夏喘喘 & 纱朵",
+    "千野依、秋野桜": "千野依 & 秋野桜",
+    "Silis、takehirotei": "Silis & takehirotei",
+    "Groove Coverage、DJane HouseKat、Sugar3itch": "Groove Coverage & DJane HouseKat & Sugar3itch",
+    "Alan Walker、Steve Aoki、Lonely Club": "Alan Walker & Steve Aoki & Lonely Club",
+    "W&W、AXMO": "W&W & AXMO",
+    "Henry Young、Ashley Alisha": "Henry Young & Ashley Alisha",
+    "CASHEW、Peter Gabriel Agam": "CASHEW & Peter Gabriel Agam",
+    "蓝光乐队、孟西": "蓝光乐队 & 孟西",
+    "彭柏德/AnRain安林": "彭柏德 & AnRain安林",
+    "星音ミラ、西蒙莱昂纳多": "星音ミラ & 西蒙莱昂纳多",
+    "uzakin、纯白P": "uzakin & 纯白P",
+    "YUSAMA、YANSAMA": "YUSAMA & YANSAMA",
+    "Video Games Live/The City of Prague Philharmonic Orchestra": "Video Games Live & The City of Prague Philharmonic Orchestra",
+    "茉ひる、RINZO": "茉ひる & RINZO",
+    "Ron Korb、龙笛": "Ron Korb & 龙笛",
+    "CMJ、好多纯音乐": "CMJ & 好多纯音乐",
+    "Rkps、Xi YuaN": "Rkps & Xi YuaN",
+    "Vince丷/见过夏天P/Ciyo": "Vince丷 & 见过夏天P & Ciyo",
+    "P3T、卉HUI-Works": "P3T & 卉HUI-Works",
+    "Neutral Moon, HyuN": "Neutral Moon & HyuN"
+  },
+
+  "no_split": ["22/7", "Leo/need", "Plum", "Rin'", "F-777"],
+
+  "artist_by_song": {
+    "光宗信吉|I SAY YES": "ICHIKO",
+    "Alan Walker & Steve Aoki & Lonely Club|Fly": "Lonely Club",
+    "uzakin & 纯白P|咸咸的": "纯白P feat. uzakin"
+  },
+
+  "title_by_song": {
+    "The Kiehl|DOK": "D.O.K",
+    "鱼儿七|卡农to me": "卡农 to me",
+    "Bear Grillz|F**k B**ches Get Honey": "Fuck Bitches Get Honey"
+  },
+
+  "title_suffix": [
+    "Bass Boosted", "Extend Mix", "Extended Mix", "THE ARCADE TRACK", "Original Mix",
+    "Sped", "Sped Up", "Instrumental", "Acoustic", "Chiptune", "VOX", "Piano",
+    "Piano Ver", "Remix", "movie ver", "English Ver", "Special Edit", "Long Ver",
+    "Radio Edit", "ReTitle", "纯音乐", "钢琴曲", "中文版", "中文译", "伴奏",
+    "VIP", "漫剧片尾歌曲", "片尾曲"
+  ],
+
+  "extra_rules": {
+    "strip_feat_in_title": true,
+    "strip_cjk_annotation_in_title": true,
+    "strip_trailing_parenthetical": true,
+    "keep_from_provenance_in_title": true,
+    "strip_trailing_version_hyphen": true,
+    "merge_same_song_keep_latest": true,
+    "vocaloid_no_footnote": true,
+    "unverifiable_collab_fallback_amp": true,
+    "album_2plus_to_miucho_list": true
+  },
+
+  "output_format": {
+    "daily_line_prefix": "2026.9.1 单曲：",
+    "per_song_format": "<sup>歌手</sup>《曲名》",
+    "separator_between_artists": "、",
+    "merge_same_artist_same_day": true
+  }
+}
