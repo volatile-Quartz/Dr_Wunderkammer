@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:14:11.144147+00:00",
+  "generated_at": "2026-09-27T16:08:21.563467+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -59,10 +59,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 814,
+      "word_count": 860,
       "image_count": 0,
-      "file_size": 5316,
-      "sha256_short": "a153ba0b23da225b"
+      "file_size": 5604,
+      "sha256_short": "d5375bc2ecb9efd0"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦.md",
@@ -383,10 +383,10 @@
       "path": "my-diary/Diary-2026/36_第37周（2026.09.07-2026.09.13）.md",
       "title": "第37周（2026.09.07-2026.09.13）",
       "label": "my-diary/Diary-2026",
-      "word_count": 4432,
+      "word_count": 4476,
       "image_count": 0,
-      "file_size": 23881,
-      "sha256_short": "e62c047f1b8ea340"
+      "file_size": 24030,
+      "sha256_short": "68683e4b6e6d969e"
     },
     {
       "path": "my-diary/Diary-2026/37_第38周（2026.09.14-2026.09.20）广食性与寡食性.md",
@@ -398,13 +398,22 @@
       "sha256_short": "fe85d5929729254d"
     },
     {
-      "path": "my-diary/Diary-2026/38_第39周（2026.09.21-2026.09.27）.md",
-      "title": "第39周（2026.09.21-2026.09.27）",
+      "path": "my-diary/Diary-2026/38_第39周（2026.09.21-2026.09.27）托尔德西里亚斯条约与萨拉戈萨条约.md",
+      "title": "第39周（2026.09.21-2026.09.27）托尔德西里亚斯条约与萨拉戈萨条约",
       "label": "my-diary/Diary-2026",
-      "word_count": 1215,
+      "word_count": 3271,
       "image_count": 0,
-      "file_size": 6763,
-      "sha256_short": "ff5911454233225d"
+      "file_size": 13968,
+      "sha256_short": "8397d05c85ba8c5c"
+    },
+    {
+      "path": "my-diary/Diary-2026/39_第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论.md",
+      "title": "第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论",
+      "label": "my-diary/Diary-2026",
+      "word_count": 876,
+      "image_count": 0,
+      "file_size": 2712,
+      "sha256_short": "fc97a9b4a5a88790"
     },
     {
       "path": "my-diary/Diary-2022/00_index.md",
@@ -1100,5 +1109,5 @@
       "sha256_short": "a8defabebbf50456"
     }
   ],
-  "total_files": 122
+  "total_files": 123
 }
