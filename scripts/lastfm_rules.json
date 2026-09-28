@@ -7,7 +7,8 @@
     "时局news", "我捞捞捞", "麻薯波比呀", "我是米蕉呀", "云空云笺", "冰汝看美国", "全荃",
     "爱因是蛋", "慢半拍的喵yy", "漆晴弦卷心", "AnonTokyo董事长", "Soleil-JJ",
     "燕三嘤嘤嘤", "モナカの音楽室",
-    "睡眠音楽", "DJ Meditation", "HEALING MUSIC", "BGM向上", "DJ Relax BGM"
+    "睡眠音楽", "DJ Meditation", "HEALING MUSIC", "BGM向上", "DJ Relax BGM",
+    "赛雷三分钟", "星球官方号", "深渊薯片", "TomCat团座", "黑橘奈叶香", "freesia"
   ],
 
   "filter_keywords": [
@@ -32,12 +33,16 @@
     "Plum - Melodic Artist": "Plum",
     "Bill Brown/Mikael Sandgren": "Mikael Sandgren/Bill Brown",
     "过气的DJ·CHEN、DJ铁柱Remix": "DJ·CHEN",
-    "Disney、Shakira": "Shakira"
+    "Disney、Shakira": "Shakira",
+    "Yukiyanagi": "YUKIYANAGI",
+    ".｡ﾟ+..Curren｡+..｡ﾟ+ -": "カレンチャン",
+    "Redalice, T+pazolite": "REDALiCE/t+pazolite"
   },
 
   "feat_map": {
     "麻枝准/やなぎなぎ": ["麻枝准", "やなぎなぎ"],
     "MIMI/初音ミク/可不": ["MIMI", "初音ミク & 可不"],
+    "MIMI/初音ミク/重音テト": ["MIMI", "初音ミク & 重音テト"],
     "MIMI/重音テト": ["MIMI", "重音テト"],
     "MIMI/saewool": ["MIMI", "saewool"],
     "MIMI、七夜月奏": ["MIMI", "七夜月奏"],
@@ -66,7 +71,19 @@
     "HyuN, Ms.Valentine": ["HyuN", "Ms.Valentine"],
     "HyuN, 蔡花零": ["HyuN", "蔡花零"],
     "HyuN, Yuri": ["HyuN", "Yuri"],
-    "Sennzai, HyuN": ["HyuN", "Sennzai"]
+    "Sennzai, HyuN": ["HyuN", "Sennzai"],
+    "よみぃ/初音ミク": ["よみぃ", "初音ミク"],
+    "ArchiveP/夢ノ結唱 POPY/重音テト": ["ArchiveP", "夢ノ結唱 POPY & 重音テト"],
+    "SaMZIng/HJLL": ["SaMZIng", "HJLL"],
+    "かめりあ/Petra Gurin": ["かめりあ", "Petra Gurin"],
+    "SOUND HOLIC/高橋菜々": ["SOUND HOLIC", "高橋菜々"],
+    "Kirara Magic/Yuuna Nini": ["Kirara Magic", "Yuuna Nini"],
+    "REDALiCE/t+pazolite": ["REDALiCE", "t+pazolite"],
+    "中原龍太郎/Senya": ["中原龍太郎", "Senya"],
+    "SINISTER SOULS/MYSELOR": ["SINISTER SOULS", "MYSELOR"],
+    "Sinister Souls/Kaizen Flow": ["Sinister Souls", "Kaizen Flow"],
+    "Sinister Souls/Badlokk": ["Sinister Souls", "Badlokk"],
+    "Tatsunoshin/DJ勝也": ["Tatsunoshin", "DJ勝也"]
   },
 
   "amp_map": {
@@ -91,7 +108,61 @@
     "Rkps、Xi YuaN": "Rkps & Xi YuaN",
     "Vince丷/见过夏天P/Ciyo": "Vince丷 & 见过夏天P & Ciyo",
     "P3T、卉HUI-Works": "P3T & 卉HUI-Works",
-    "Neutral Moon, HyuN": "Neutral Moon & HyuN"
+    "Neutral Moon, HyuN": "Neutral Moon & HyuN",
+    "TIC/Paperman": "TIC & Paperman",
+    "Norwind Skies/Faolan": "Norwind Skies & Faolan",
+    "悠叶いのり/MarsReverb": "悠叶いのり & MarsReverb",
+    "SuggestedCopy7/亚述": "SuggestedCopy7 & 亚述",
+    "UIL/Soaring Records": "UIL & Soaring Records",
+    "Risa Yuzuki/Blacky": "Risa Yuzuki & Blacky",
+    "yuki_宇恩/灰澈": "yuki_宇恩 & 灰澈",
+    "Trazer/Lightscape": "Trazer & Lightscape",
+    "OYRH/Austin Carl": "OYRH & Austin Carl",
+    "WOVOP/洛天依/乐正绫": "WOVOP & 洛天依 & 乐正绫",
+    "RYOQUCHA/DJ Raisei": "RYOQUCHA & DJ Raisei",
+    "David Parry/London Philharmonic Orchestra": "David Parry & London Philharmonic Orchestra",
+    "Royal Philharmonic Orchestra/Carl Davis/Edward Elgar": "Royal Philharmonic Orchestra & Carl Davis & Edward Elgar",
+    "MIMI/可不": "MIMI & 可不",
+    "幽閉サテライト/森永真由美": "幽閉サテライト & 森永真由美",
+    "残像音阶/M3mo": "残像音阶 & M3mo",
+    "HOPERUI/Greyscale": "HOPERUI & Greyscale",
+    "天逸/Liv7/小欣/不识君": "天逸 & Liv7 & 小欣 & 不识君",
+    "灰澈/yuki_宇恩": "灰澈 & yuki_宇恩",
+    "打打だいず/Ashrount": "打打だいず & Ashrount",
+    "JINGYAN/Rigel Music": "JINGYAN & Rigel Music",
+    "凌晨一点的莱茵猫/二乘": "凌晨一点的莱茵猫 & 二乘",
+    "Steerner/Martell": "Steerner & Martell",
+    "酔シグレ/むﾄ": "酔シグレ & むﾄ",
+    "千坂/SaMZIng": "千坂 & SaMZIng",
+    "nayuta/ARForest": "nayuta & ARForest",
+    "NORISTRY/ﾀﾗﾁｵ/もるでお/まらしぃ": "NORISTRY & ﾀﾗﾁｵ & もるでお & まらしぃ",
+    "Epic Soul Factory/Cesc Vilà/Fran Soto": "Epic Soul Factory & Cesc Vilà & Fran Soto",
+    "Shandy kubota/かめりあ": "Shandy kubota & かめりあ",
+    "ProjectMoon/StudioEIM": "ProjectMoon & StudioEIM",
+    "上水流宇宙/vα-liv": "上水流宇宙 & vα-liv",
+    "HYPERLOCK/saamson": "HYPERLOCK & saamson",
+    "LaXal/MANDY B.BLUE": "LaXal & MANDY B.BLUE",
+    "YUKIYANAGI/savogy": "YUKIYANAGI & savogy",
+    "Assertive/HYPERLOCK": "Assertive & HYPERLOCK",
+    "Tatsunoshin/PIKASONIC/SARUKANI": "Tatsunoshin & PIKASONIC & SARUKANI",
+    "DJ Shimamura/AZK": "DJ Shimamura & AZK",
+    "DJ Shimamura/Whizzkid": "DJ Shimamura & Whizzkid",
+    "KO3/Getty/TEA": "KO3 & Getty & TEA",
+    "4*/S2i8": "4* & S2i8",
+    "HYPERLOCK/Eririn": "HYPERLOCK & Eririn",
+    "Aethral/Hyleo": "Aethral & Hyleo",
+    "Scott Brown/M-Project": "Scott Brown & M-Project",
+    "Tatsunoshin/Tsugumi Nagahara": "Tatsunoshin & Tsugumi Nagahara",
+    "健屋花那/PSYQUI": "健屋花那 & PSYQUI",
+    "電音部/Tatsunoshin/星川サラ": "電音部 & Tatsunoshin & 星川サラ",
+    "Hommarju/AKKUN DAIMAOU": "Hommarju & AKKUN DAIMAOU",
+    "M-Project/Mitomoro": "M-Project & Mitomoro",
+    "YUKIYANAGI/Sokudo!": "YUKIYANAGI & Sokudo!",
+    "DJ Shimamura/Lindsey Marie/Kent Alexander": "DJ Shimamura & Lindsey Marie & Kent Alexander",
+    "Daniel Seven/Hotchkiss": "Daniel Seven & Hotchkiss",
+    "Daniel Seven/YUKI": "Daniel Seven & YUKI",
+    "Mtell/Riku": "Mtell & Riku",
+    "DJ Shimamura/Lindsey Marie": "DJ Shimamura & Lindsey Marie"
   },
 
   "no_split": ["22/7", "Leo/need", "Plum", "Rin'", "F-777"],
@@ -99,13 +170,27 @@
   "artist_by_song": {
     "光宗信吉|I SAY YES": "ICHIKO",
     "Alan Walker & Steve Aoki & Lonely Club|Fly": "Lonely Club",
-    "uzakin & 纯白P|咸咸的": "纯白P feat. uzakin"
+    "uzakin & 纯白P|咸咸的": "纯白P feat. uzakin",
+    "猎豹游戏-Cheetah Mobile Games|行歌未竟（滚动的天空11周年）": "闫东炜"
   },
 
   "title_by_song": {
     "The Kiehl|DOK": "D.O.K",
     "鱼儿七|卡农to me": "卡农 to me",
-    "Bear Grillz|F**k B**ches Get Honey": "Fuck Bitches Get Honey"
+    "Bear Grillz|F**k B**ches Get Honey": "Fuck Bitches Get Honey",
+    "闫东炜|行歌未竟（滚动的天空11周年）": "Our Story Onwards",
+    "Rinth|Re_Nascence -Another Version-": "Re_Nascence",
+    "OTOKAZE|Save the flavor Part3 -Insturmental version-": "Save the flavor Part3 -Instrumental version-",
+    "Rolling Contact|Frenzy Eyes (Frenzy Eyes)": "Frenzy Eyes",
+    "Rolling Contact|Ultra Funkular (128 Flat Extended) (Ultra Funkular (128 Flat Extended))": "Ultra Funkular (128 Flat Extended)",
+    "Rolling Contact|Myriad Border (Sharp Key Edit) (Myriad Border (Sharp Key Edit))": "Myriad Border (Sharp Key Edit)",
+    "Rolling Contact|Little Treasure (Instrumental Remix) (Little Treasure (Instrumental Remix))": "Little Treasure (Instrumental Remix)",
+    "Rolling Contact|Winning Hands (Instrumental Extended) (Winning Hands (Instrumental Extended))": "Winning Hands (Instrumental Extended)",
+    "酔シグレ & むﾄ|夜明けを乞う。 (": "夜明けを乞う。",
+    "Tatsunoshin & Tsugumi Nagahara|Innocent Prayer (": "Innocent Prayer",
+    "健屋花那|Beat Me! (": "Beat Me!",
+    "健屋花那 & PSYQUI|Shining Lights (": "Shining Lights",
+    "Shandy kubota & かめりあ|See you (Camellia's Farewell Remix) [": "See you (Camellia's Farewell Remix)"
   },
 
   "title_suffix": [
@@ -129,7 +214,7 @@
   },
 
   "output_format": {
-    "daily_line_prefix": "2026.9.1 单曲：",
+    "daily_line_prefix": "2026.9.22 单曲：",
     "per_song_format": "<sup>歌手</sup>《曲名》",
     "separator_between_artists": "、",
     "merge_same_artist_same_day": true
