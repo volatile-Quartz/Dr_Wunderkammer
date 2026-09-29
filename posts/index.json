@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:32:29.099190+00:00",
+  "generated_at": "2026-09-29T07:34:38.594748+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -484,8 +484,8 @@
       "label": "my-diary/Diary-2025",
       "word_count": 1220,
       "image_count": 0,
-      "file_size": 7960,
-      "sha256_short": "e2b30e3ce8e4fbd9"
+      "file_size": 7955,
+      "sha256_short": "c8e5bccfe51f4b11"
     },
     {
       "path": "my-diary/Diary-2025/01_第1周（2024.12.30-2025.01.05）儒略历与格里高利历.md",
@@ -824,136 +824,136 @@
       "path": "my-diary/Diary-2025/38_第38周（2025.09.15-2025.09.21）.md",
       "title": "第38周（2025.09.15-2025.09.21）",
       "label": "my-diary/Diary-2025",
-      "word_count": 15361,
+      "word_count": 1423,
       "image_count": 0,
-      "file_size": 52041,
-      "sha256_short": "eb622f6733ed4623"
+      "file_size": 4759,
+      "sha256_short": "f44f29bff53bf4ab"
     },
     {
       "path": "my-diary/Diary-2025/39_第39周（2025.09.22-2025.09.28）内部类.md",
       "title": "第39周（2025.09.22-2025.09.28）内部类",
       "label": "my-diary/Diary-2025",
-      "word_count": 4608,
+      "word_count": 2702,
       "image_count": 0,
-      "file_size": 16158,
-      "sha256_short": "b6edbdf4374825a1"
+      "file_size": 9890,
+      "sha256_short": "7d8b69dade16e7fa"
     },
     {
       "path": "my-diary/Diary-2025/40_第40周（2025.09.29-2025.10.05）被动语态与黏着语.md",
       "title": "第40周（2025.09.29-2025.10.05）被动语态与黏着语",
       "label": "my-diary/Diary-2025",
-      "word_count": 2960,
+      "word_count": 2274,
       "image_count": 0,
-      "file_size": 10783,
-      "sha256_short": "f7172eb21f895dc6"
+      "file_size": 8469,
+      "sha256_short": "2e2d796d6488cd47"
     },
     {
       "path": "my-diary/Diary-2025/41_第41周（2025.10.06-2025.10.12）全字母句.md",
       "title": "第41周（2025.10.06-2025.10.12）全字母句",
       "label": "my-diary/Diary-2025",
-      "word_count": 4382,
+      "word_count": 1556,
       "image_count": 0,
-      "file_size": 15216,
-      "sha256_short": "14bdad1c952fa20d"
+      "file_size": 5622,
+      "sha256_short": "130080109dd16c56"
     },
     {
       "path": "my-diary/Diary-2025/42_第42周（2025.10.13-2025.10.19）.md",
       "title": "第42周（2025.10.13-2025.10.19）",
       "label": "my-diary/Diary-2025",
-      "word_count": 1733,
+      "word_count": 900,
       "image_count": 0,
-      "file_size": 7079,
-      "sha256_short": "a31bbe85e5e58fb1"
+      "file_size": 4314,
+      "sha256_short": "2b8a24fc9e2866b5"
     },
     {
       "path": "my-diary/Diary-2025/43_第43周（2025.10.20-2025.10.26）哈夫曼树与芬威克树、落叶乔木.md",
       "title": "第43周（2025.10.20-2025.10.26）哈夫曼树与芬威克树、落叶乔木",
       "label": "my-diary/Diary-2025",
-      "word_count": 4133,
+      "word_count": 3603,
       "image_count": 0,
-      "file_size": 13432,
-      "sha256_short": "30a72f1d95c6d40f"
+      "file_size": 11650,
+      "sha256_short": "cd0c059006b5b057"
     },
     {
       "path": "my-diary/Diary-2025/44_第44周（2025.10.27-2025.11.02）.md",
       "title": "第44周（2025.10.27-2025.11.02）",
       "label": "my-diary/Diary-2025",
-      "word_count": 3860,
+      "word_count": 2135,
       "image_count": 0,
-      "file_size": 13616,
-      "sha256_short": "ebb98687aaffe137"
+      "file_size": 7844,
+      "sha256_short": "1e3c656a40781f21"
     },
     {
       "path": "my-diary/Diary-2025/45_第45周（2025.11.03-2025.11.09）海因里希法则.md",
       "title": "第45周（2025.11.03-2025.11.09）海因里希法则",
       "label": "my-diary/Diary-2025",
-      "word_count": 3913,
+      "word_count": 3137,
       "image_count": 0,
-      "file_size": 13877,
-      "sha256_short": "124a97ccc70cdf7b"
+      "file_size": 11275,
+      "sha256_short": "e8816ece175a8cda"
     },
     {
       "path": "my-diary/Diary-2025/46_第46周（2025.11.10-2025.11.16）.md",
       "title": "第46周（2025.11.10-2025.11.16）",
       "label": "my-diary/Diary-2025",
-      "word_count": 1299,
+      "word_count": 800,
       "image_count": 0,
-      "file_size": 4304,
-      "sha256_short": "000bb23235271865"
+      "file_size": 2625,
+      "sha256_short": "f3f553458ca18eda"
     },
     {
       "path": "my-diary/Diary-2025/47_第47周（2025.11.17-2025.11.23）寒衣节、太妃糖.md",
       "title": "第47周（2025.11.17-2025.11.23）寒衣节、太妃糖",
       "label": "my-diary/Diary-2025",
-      "word_count": 2632,
+      "word_count": 1556,
       "image_count": 0,
-      "file_size": 8382,
-      "sha256_short": "f86c96d37b508d6a"
+      "file_size": 4844,
+      "sha256_short": "9d265b386014d7df"
     },
     {
       "path": "my-diary/Diary-2025/48_第48周（2025.11.24-2025.11.30）阿拉克涅.md",
       "title": "第48周（2025.11.24-2025.11.30）阿拉克涅",
       "label": "my-diary/Diary-2025",
-      "word_count": 1405,
+      "word_count": 920,
       "image_count": 0,
-      "file_size": 4737,
-      "sha256_short": "c53382661641fca8"
+      "file_size": 3120,
+      "sha256_short": "0ee6e05b93b8fbe3"
     },
     {
       "path": "my-diary/Diary-2025/49_第49周（2025.12.01-2025.12.07）疼痛式拍照法.md",
       "title": "第49周（2025.12.01-2025.12.07）疼痛式拍照法",
       "label": "my-diary/Diary-2025",
-      "word_count": 3657,
+      "word_count": 2580,
       "image_count": 0,
-      "file_size": 11568,
-      "sha256_short": "85e678eccaf962a6"
+      "file_size": 7994,
+      "sha256_short": "ac7357a418e4ca98"
     },
     {
       "path": "my-diary/Diary-2025/50_第50周（2025.12.08-2025.12.14）.md",
       "title": "第50周（2025.12.08-2025.12.14）",
       "label": "my-diary/Diary-2025",
-      "word_count": 2051,
+      "word_count": 983,
       "image_count": 0,
-      "file_size": 6563,
-      "sha256_short": "dc9ae442be9b98ad"
+      "file_size": 3013,
+      "sha256_short": "e977d41eb5ea5098"
     },
     {
       "path": "my-diary/Diary-2025/51_第51周（2025.12.15-2025.12.21）皮亚诺余项与拉格朗日余项、冬至与饺子.md",
       "title": "第51周（2025.12.15-2025.12.21）皮亚诺余项与拉格朗日余项、冬至与饺子",
       "label": "my-diary/Diary-2025",
-      "word_count": 2885,
+      "word_count": 1207,
       "image_count": 0,
-      "file_size": 9363,
-      "sha256_short": "fa62022ae77fd52f"
+      "file_size": 3803,
+      "sha256_short": "1b3c3e8c13a92cfa"
     },
     {
       "path": "my-diary/Diary-2025/52_第52周（2025.12.22-2025.12.28）位移极化与取向极化.md",
       "title": "第52周（2025.12.22-2025.12.28）位移极化与取向极化",
       "label": "my-diary/Diary-2025",
-      "word_count": 4622,
+      "word_count": 3390,
       "image_count": 0,
-      "file_size": 14798,
-      "sha256_short": "64a877fca51eb0c5"
+      "file_size": 10706,
+      "sha256_short": "3f0257d4c6086571"
     },
     {
       "path": "my-diary/Diary-2025/53_附录1：音乐作品汇总.md",
