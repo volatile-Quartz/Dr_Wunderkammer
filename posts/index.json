@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T03:17:19.118753+00:00",
+  "generated_at": "2026-09-29T03:19:09.651314+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -62,7 +62,7 @@
       "word_count": 873,
       "image_count": 0,
       "file_size": 5682,
-      "sha256_short": "41e1b3e5389c9f07"
+      "sha256_short": "c9b6f15629c3a3f7"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四元素与元素精灵.md",
@@ -410,10 +410,10 @@
       "path": "my-diary/Diary-2026/39_第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论.md",
       "title": "第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论",
       "label": "my-diary/Diary-2026",
-      "word_count": 964,
+      "word_count": 965,
       "image_count": 0,
-      "file_size": 3148,
-      "sha256_short": "8762c76f00cbc256"
+      "file_size": 3151,
+      "sha256_short": "af62f246da105c9a"
     },
     {
       "path": "my-diary/Diary-2022/00_index.md",
