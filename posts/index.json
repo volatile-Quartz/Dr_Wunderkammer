@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:18:21.480780+00:00",
+  "generated_at": "2026-09-29T07:32:29.099190+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -482,10 +482,10 @@
       "path": "my-diary/Diary-2025/00_index.md",
       "title": "「Diary」2025",
       "label": "my-diary/Diary-2025",
-      "word_count": 1215,
+      "word_count": 1220,
       "image_count": 0,
-      "file_size": 7922,
-      "sha256_short": "6261f61d51f0883f"
+      "file_size": 7960,
+      "sha256_short": "e2b30e3ce8e4fbd9"
     },
     {
       "path": "my-diary/Diary-2025/01_第1周（2024.12.30-2025.01.05）儒略历与格里高利历.md",
@@ -974,13 +974,13 @@
       "sha256_short": "0844da2125efa4ce"
     },
     {
-      "path": "my-diary/Diary-2025/55_附录3：魔法卡片已集齐卡片一览.md",
-      "title": "附录3：魔法卡片已集齐卡片一览",
+      "path": "my-diary/Diary-2025/55_附录3：魔法卡片已集齐卡片一览（131 + 217 套）.md",
+      "title": "附录3：魔法卡片已集齐卡片一览（131 + 217 套）",
       "label": "my-diary/Diary-2025",
-      "word_count": 27067,
+      "word_count": 27137,
       "image_count": 0,
-      "file_size": 159661,
-      "sha256_short": "13b679d56b73015c"
+      "file_size": 160013,
+      "sha256_short": "931a56f7aa820ac0"
     },
     {
       "path": "my-diary/Diary-2025/56_附录4：草稿纸·No.7134 - No.8542.md",
