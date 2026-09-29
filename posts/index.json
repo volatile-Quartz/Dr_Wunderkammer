@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:38:40.213033+00:00",
+  "generated_at": "2026-09-29T07:41:21.079978+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -485,7 +485,7 @@
       "word_count": 1220,
       "image_count": 0,
       "file_size": 7955,
-      "sha256_short": "e5c7aa5d0b0dcc48"
+      "sha256_short": "ba8f4f503f17ffbb"
     },
     {
       "path": "my-diary/Diary-2025/01_第1周（2024.12.30-2025.01.05）儒略历与格里高利历.md",
@@ -977,10 +977,10 @@
       "path": "my-diary/Diary-2025/55_附录3：魔法卡片已集齐卡片一览（131 + 217 套）.md",
       "title": "附录3：魔法卡片已集齐卡片一览（131 + 217 套）",
       "label": "my-diary/Diary-2025",
-      "word_count": 26054,
+      "word_count": 25358,
       "image_count": 0,
-      "file_size": 121469,
-      "sha256_short": "3de47d1a1e42c648"
+      "file_size": 117989,
+      "sha256_short": "b6dec56e8cf4d9b3"
     },
     {
       "path": "my-diary/Diary-2025/56_附录4：草稿纸·No.7134 - No.8542.md",
