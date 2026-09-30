@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:30:45.403682+00:00",
+  "generated_at": "2026-09-30T10:05:05.617680+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -62,7 +62,7 @@
       "word_count": 873,
       "image_count": 0,
       "file_size": 5682,
-      "sha256_short": "008bd89b11ea5639"
+      "sha256_short": "9cb3fbd2c547cd1b"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四元素与元素精灵.md",
@@ -392,19 +392,19 @@
       "path": "my-diary/Diary-2026/37_第38周（2026.09.14-2026.09.20）广食性与寡食性.md",
       "title": "第38周（2026.09.14-2026.09.20）广食性与寡食性",
       "label": "my-diary/Diary-2026",
-      "word_count": 1826,
+      "word_count": 1836,
       "image_count": 0,
-      "file_size": 8851,
-      "sha256_short": "fe85d5929729254d"
+      "file_size": 8888,
+      "sha256_short": "ea30621b4a59a045"
     },
     {
       "path": "my-diary/Diary-2026/38_第39周（2026.09.21-2026.09.27）托尔德西里亚斯条约与萨拉戈萨条约.md",
       "title": "第39周（2026.09.21-2026.09.27）托尔德西里亚斯条约与萨拉戈萨条约",
       "label": "my-diary/Diary-2026",
-      "word_count": 5430,
+      "word_count": 5476,
       "image_count": 0,
-      "file_size": 27237,
-      "sha256_short": "1dbc5b3106a83b8f"
+      "file_size": 27389,
+      "sha256_short": "4c5114b3bd2e340c"
     },
     {
       "path": "my-diary/Diary-2026/39_第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论.md",
