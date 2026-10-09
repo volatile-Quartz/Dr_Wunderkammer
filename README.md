@@ -7,12 +7,12 @@
 ## 文章列表
 | 序号 | 文章标题 | 更新时间 | 篇章统计 | 字数统计 | 插图统计 |
 |:------:|:------------------:|:------------------:|:------:|:------:|:------:|
-| 1 | [「Diary」2026](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 2026-10-08 23:17 | 41 | 115683 | 3 |
-| 2 | [「Diary」2025](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27) | 2026-10-08 19:39 | 57 | 90563 | 0 |
+| 1 | [「Diary」2026](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 2026-10-09 12:47 | 41 | 115712 | 3 |
+| 2 | [「Diary」2025](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27) | 2026-10-08 19:39 | 1 | 548 | 0 |
 | 3 | [「Diary」2017-2018](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/20) | 2026-09-09 23:45 | 1 | 12 | 0 |
-| 4 | [「Diary」2006-2007](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16) | 2026-09-09 23:45 | 3 | 2058 | 0 |
-| 5 | [「Diary」2002-2003](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/14) | 2026-09-09 23:45 | 3 | 2333 | 0 |
-| 6 | [「Diary」2019](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21) | 2026-09-01 14:08 | 8 | 3928 | 24 |
+| 4 | [「Diary」2006-2007](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16) | 2026-09-09 23:45 | 1 | 140 | 0 |
+| 5 | [「Diary」2002-2003](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/14) | 2026-09-09 23:45 | 1 | 196 | 0 |
+| 6 | [「Diary」2019](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21) | 2026-09-01 14:08 | 1 | 10 | 0 |
 | 7 | [「Diary」2024](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/26) | 2026-06-16 17:47 | 1 | 10 | 0 |
 | 8 | [「Diary」2023](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/25) | 2026-06-16 17:46 | 1 | 10 | 0 |
 | 9 | [「Diary」2022](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/24) | 2026-06-16 17:46 | 1 | 10 | 0 |
@@ -25,9 +25,9 @@
 
 ## 博客统计
 - 年份合集：14 个
-- 周记/月记：121 篇
+- 周记/月记：54 篇
 - 新增篇章：0
 - 更新篇章：4
-- 总字数：214657
-- 总插图数：27
-- 最后更新：2026-10-08 23:17:36
+- 总字数：116698
+- 总插图数：3
+- 最后更新：2026-10-09 12:47:33
