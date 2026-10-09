@@ -1,0 +1,8 @@
+# 自动生成文件冲突解决策略：始终使用当前分支版本
+# 由 GitHub Actions 工作流在 commit 前配置 merge driver
+README.md merge=ours
+feed.xml merge=ours
+CHANGELOG.md merge=ours
+.temp_metadata.json merge=ours
+posts_export.json merge=ours
+posts/index.json merge=ours

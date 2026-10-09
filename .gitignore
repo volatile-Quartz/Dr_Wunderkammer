@@ -1,0 +1,33 @@
+# ==================== Python ====================
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# ==================== IDE & Editor ====================
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# ==================== Logs & Temp ====================
+*.log
+nohup.out
+temp_backup/
+BACKUP/
+
+# ==================== Credentials ====================
+.git-credentials
+.env
+*.token
+
+# ==================== Tooling ====================
+# 会话/分享产生的本地临时包，禁止入仓库
+.trae-html-share-packages/

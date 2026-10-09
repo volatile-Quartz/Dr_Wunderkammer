@@ -1,0 +1,91 @@
+name: Deploy static content to Pages
+
+on:
+  # 内容更新后部署 Pages
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - "README.md"
+      - "feed.xml"
+      - "posts/**"
+      - ".temp_metadata.json"
+      - "posts_export.json"
+      - "CHANGELOG.md"
+  # 每日定时兜底：squash（UTC 15:30）后重建站点，
+  # 避免 force-push 场景下 push 事件不匹配文件而漏更
+  schedule:
+    - cron: '40 15 * * *'
+  # 手动触发（用于首次部署或修复）
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      GH_TOKEN: ${{ github.token }}
+      ISITE_VERSION: v0.2.2
+      ZOLA_VERSION: v0.20.0
+      USER: ${{ github.repository_owner }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set repo and base url
+        run: |
+          # 设置 REPO 变量
+          REPO=$(echo "${{ github.repository }}" | cut -d '/' -f 2)
+          echo "REPO=$REPO" >> $GITHUB_ENV
+          # 设置 BASE_URL
+          BASE_URL="https://${{ github.repository_owner }}.github.io/$REPO"
+          echo "BASE_URL=$BASE_URL" >> $GITHUB_ENV
+
+      - name: Generate markdown
+        run: |
+          set -e
+
+          # Download and install isite using gh CLI
+          gh release download $ISITE_VERSION --repo kemingy/isite -p '*Linux_x86_64*' -O- | tar -xz -C /tmp
+          mv /tmp/isite /usr/local/bin
+          isite version
+
+          # Generate static markdown from issues
+          isite generate --user "$USER" --repo "$REPO"
+
+          # Download and install zola using gh CLI
+          gh release download $ZOLA_VERSION --repo getzola/zola -p '*x86_64-unknown-linux*' -O- | tar -xz -C /tmp
+          mv /tmp/zola /usr/local/bin
+          zola --version
+
+          # Build site
+          cd output
+          zola build --base-url "$BASE_URL"
+
+          # Copy markdown viewer into built public dir (accessible as /viewer.html)
+          cp ../viewer.html public/viewer.html
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: 'output/public'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

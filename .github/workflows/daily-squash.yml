@@ -1,0 +1,104 @@
+name: Daily Commit Squash
+
+# 互斥锁：与 generate_readme 共享同一组，防止并行写入 master
+concurrency:
+  group: master-branch-write
+  cancel-in-progress: true
+
+on:
+  # 每天 UTC 时间 15:30（北京时间 23:30）执行，晚于 generate（22:15）收拢当天提交
+  schedule:
+    - cron: '30 15 * * *'
+  
+  # 手动触发
+  workflow_dispatch:
+
+jobs:
+  squash-commits:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    
+    steps:
+      # 1. 检出代码（需要完整历史）
+      - name: Checkout code
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0  # 获取完整历史
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # 2. 配置 Git 用户信息
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+      # 3. 定位最近的「每日提交汇总」提交作为压缩边界
+      - name: Locate last daily summary commit
+        id: locate-summary
+        run: |
+          LAST_SUMMARY=$(git log --grep="每日提交汇总" --format="%H" -1)
+          if [ -z "$LAST_SUMMARY" ]; then
+            # 首次兜底：历史尚无汇总提交时，以最近一个非 Auto-update 提交为初始锚点
+            LAST_SUMMARY=$(git log --grep="Auto-update" --invert-grep --format="%H" -1)
+            echo "No daily summary found, falling back to last non-Auto-update commit"
+          fi
+          if [ -z "$LAST_SUMMARY" ]; then
+            echo "Error: cannot find an anchor commit"
+            exit 1
+          fi
+          echo "last_summary=$LAST_SUMMARY" >> $GITHUB_OUTPUT
+          echo "Anchor commit: $LAST_SUMMARY"
+          
+      # 4. 检查锚点之后是否有提交
+      - name: Check for commits since last summary
+        id: check-commits
+        run: |
+          COMMIT_COUNT=$(git rev-list --count "${{ steps.locate-summary.outputs.last_summary }}..HEAD")
+          echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
+          echo "Found ${COMMIT_COUNT} commits since last summary"
+          
+      # 5. 如果有提交，压缩到最近一次汇总（或首次兜底锚点）为止
+      - name: Squash commits
+        if: steps.check-commits.outputs.commit_count > 0
+        run: |
+          echo "Starting commit squash..."
+
+          SUMMARY="${{ steps.locate-summary.outputs.last_summary }}"
+          TODAY_DATE=$(date +"%Y-%m-%d")
+          echo "Anchor commit: $SUMMARY, commits to squash: ${{ steps.check-commits.outputs.commit_count }}"
+
+          # 将 HEAD 软重置到锚点：锚点之后的全部变更保留在暂存区，
+          # 一次性提交为汇总。对比逐条 rebase + squash，不会因多个
+          # 全量重写型提交（如 Auto-update）互相覆盖而产生合并冲突。
+          git reset --soft "$SUMMARY"
+          git add -A
+          git commit -m "$TODAY_DATE - 每日提交汇总"
+
+          echo "Commit squash completed successfully"
+          
+      # 6. 如果没有提交，跳过
+      - name: No commits to squash
+        if: steps.check-commits.outputs.commit_count == 0
+        run: |
+          echo "No commits since last summary, skipping squash"
+          
+      # 7. 安全推送
+      - name: Safe push
+        if: steps.check-commits.outputs.commit_count > 0
+        run: |
+          echo "Starting safe push..."
+          
+          # 先获取远程最新更改
+          git fetch origin master
+          
+          # 检查是否需要处理冲突
+          if git merge-base --is-ancestor "HEAD" "origin/master"; then
+            echo "Local is behind remote, merging with ours strategy"
+            git merge origin/master -X ours -m "Merge remote changes before squash"
+          fi
+          
+          # 强制推送（--force-with-lease 更安全）
+          git push origin master --force-with-lease
+          
+          echo "Push completed successfully"

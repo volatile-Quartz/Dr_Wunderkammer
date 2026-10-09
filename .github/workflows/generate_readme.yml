@@ -1,0 +1,160 @@
+name: Generate README
+
+# 互斥锁：同一时间只允许一个实例运行，新触发会取消旧运行
+concurrency:
+  group: master-branch-write
+  cancel-in-progress: true
+
+on:
+  # 实时触发：issue 事件
+  issues:
+    types: [opened, edited, labeled, unlabeled, closed]
+  issue_comment:
+    types: [created, edited, deleted]
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - "README.md"
+      - "feed.xml"
+      - "posts/**"
+
+  # 每天定时执行：生成并提交 README.md 和 feed.xml
+  schedule:
+    # 每天北京时间 22:15 (UTC 14:15) 执行，确保在 squash（23:30）之前完成
+    - cron: '15 14 * * *'
+
+  # 手动触发
+  workflow_dispatch:
+
+jobs:
+  # 合并为单 job：生成 posts → 生成 README → 一次 commit → 一次 push
+  generate-all:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      TZ: Asia/Shanghai
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.8"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub
+
+      # ========== Step 0: 运行单元测试（跨环境一致性验证） ==========
+      - name: Run unit tests
+        run: |
+          echo "=== 运行跨环境一致性测试 ==="
+          python -m unittest scripts.test_utils -v
+          echo "=== 所有测试通过 ==="
+
+      # ========== Step 1: 按评论拆分 issue 生成 posts/ 下的 md（非 schedule 时执行） ==========
+      - name: Generate issue .md files
+        if: github.event_name != 'schedule'
+        run: |
+          ISSUE_NUMBER=""
+          if [ "${{ github.event_name }}" == "issues" ] || [ "${{ github.event_name }}" == "issue_comment" ]; then
+            ISSUE_NUMBER="${{ github.event.issue.number }}"
+          fi
+
+          if [ -n "$ISSUE_NUMBER" ]; then
+            echo "处理 issue #$ISSUE_NUMBER (event: ${{ github.event_name }})"
+            python scripts/split_issue_to_files.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} --issue_number $ISSUE_NUMBER
+          else
+            echo "未指定 issue，处理所有 issue"
+            python scripts/split_issue_to_files.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }}
+          fi
+
+      # ========== Step 2: 生成 README.md 和 feed.xml ==========
+      - name: Generate README and feed.xml
+        run: |
+          python scripts/update_readme.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }}
+
+      # ========== Step 2.5: 生成 JSON 结构化导出和目录索引 ==========
+      - name: Generate JSON export and index
+        run: |
+          python -c "
+          import sys
+          sys.path.insert(0, '.')
+          from scripts.generate_posts import export_json, generate_index_json
+          export_json('${{ github.repository }}')
+          generate_index_json()
+          "
+
+      # ========== Step 3: 一次 commit + push 所有变更 ==========
+      - name: Commit and push all changes
+        run: |
+          # 检查是否有任何文件变更
+          if git diff --exit-code --quiet && git diff --cached --exit-code --quiet; then
+            echo "没有文件变更，跳过提交"
+            exit 0
+          fi
+
+          echo "检测到文件变更，准备提交"
+
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          # 配置自动合并驱动：README.md / feed.xml / CHANGELOG.md 冲突时使用本地版本
+          git config merge.ours.driver 'git merge-file --ours %A %O %B'
+
+          today=$(date +"%Y-%m-%d")
+
+          git add --all
+
+          # ===== 时间戳拦截：若全部变更仅为时间戳行，则视为无实质变更，跳过提交 =====
+          TIMESTAMP_ONLY=true
+          for file in $(git diff --cached --name-only); do
+            case "$file" in
+              README.md|feed.xml|posts_export.json|posts/index.json)
+                # 忽略空文件（如仅删除了README列变化），非空才检查
+                numstats=$(git diff --cached --numstat "$file" | awk '{s+=$1; d+=$2} END {print s, d}')
+                additions=$(echo $numstats | cut -d' ' -f1)
+                deletions=$(echo $numstats | cut -d' ' -f2)
+                # README 时间戳行增减只会有1~2行的变动
+                if [ "$additions" -le 2 ] && [ "$deletions" -le 2 ]; then
+                  : # 视为时间戳微调
+                else
+                  TIMESTAMP_ONLY=false
+                  break
+                fi
+                ;;
+              *)
+                TIMESTAMP_ONLY=false
+                break
+                ;;
+            esac
+          done
+          if [ "$TIMESTAMP_ONLY" = true ]; then
+            echo "仅时间戳变化，跳过提交"
+            git reset --hard HEAD
+            exit 0
+          fi
+
+          # stash 可能存在的无关变更（如 metadata 文件），但保留已 git add 的
+          git stash push --keep-index --include-untracked -m "WIP" 2>/dev/null || echo "No other changes to stash"
+
+          git commit -m "Auto-update: $today"
+
+          # 拉取远程最新并 rebase
+          git fetch origin master
+          if ! git rebase origin/master; then
+            echo "Rebase 冲突，中止并使用 merge 策略（优先保留本地生成内容）"
+            git rebase --abort
+            git merge origin/master -X ours -m "Auto-update: $today"
+          fi
+
+          # 恢复 stash
+          git stash pop 2>/dev/null || echo "No stash to restore"
+
+          git push origin HEAD:master
