@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:47:34.214468+00:00",
+  "generated_at": "2026-10-11T16:17:57.481040+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -59,10 +59,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 895,
+      "word_count": 904,
       "image_count": 0,
-      "file_size": 5827,
-      "sha256_short": "6563f5a8aaf75931"
+      "file_size": 5885,
+      "sha256_short": "a2ab22628fa736e9"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -419,10 +419,19 @@
       "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）.md",
       "title": "第41周（2026.10.05-2026.10.11）",
       "label": "my-diary/Diary-2026",
-      "word_count": 142,
+      "word_count": 477,
       "image_count": 0,
-      "file_size": 511,
-      "sha256_short": "e2922e8a99023d82"
+      "file_size": 1634,
+      "sha256_short": "0bc8ef3a7e492228"
+    },
+    {
+      "path": "my-diary/Diary-2026/41_第42周.md",
+      "title": "第42周",
+      "label": "my-diary/Diary-2026",
+      "word_count": 5,
+      "image_count": 0,
+      "file_size": 26,
+      "sha256_short": "3a75cea06b09fbae"
     },
     {
       "path": "my-diary/Diary-2022/00_index.md",
@@ -1118,5 +1127,5 @@
       "sha256_short": "55b9ef7edf2ada03"
     }
   ],
-  "total_files": 124
+  "total_files": 125
 }
