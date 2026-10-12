@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:17:57.481040+00:00",
+  "generated_at": "2026-10-12T16:53:17.435178+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -35,7 +35,7 @@
       "word_count": 90,
       "image_count": 0,
       "file_size": 502,
-      "sha256_short": "816fd033cd513703"
+      "sha256_short": "4525055cb04c2547"
     },
     {
       "path": "my-diary/Diary-2002-2003/01_2002（壬午）.md",
@@ -59,10 +59,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 904,
+      "word_count": 912,
       "image_count": 0,
-      "file_size": 5885,
-      "sha256_short": "a2ab22628fa736e9"
+      "file_size": 5943,
+      "sha256_short": "08dbda17a34f8391"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -392,46 +392,46 @@
       "path": "my-diary/Diary-2026/37_第38周（2026.09.14-2026.09.20）广食性与寡食性.md",
       "title": "第38周（2026.09.14-2026.09.20）广食性与寡食性",
       "label": "my-diary/Diary-2026",
-      "word_count": 1836,
+      "word_count": 1942,
       "image_count": 0,
-      "file_size": 8888,
-      "sha256_short": "ea30621b4a59a045"
+      "file_size": 9444,
+      "sha256_short": "a153d7047b733ad4"
     },
     {
       "path": "my-diary/Diary-2026/38_第39周（2026.09.21-2026.09.27）托尔德西里亚斯条约与萨拉戈萨条约.md",
       "title": "第39周（2026.09.21-2026.09.27）托尔德西里亚斯条约与萨拉戈萨条约",
       "label": "my-diary/Diary-2026",
-      "word_count": 3678,
+      "word_count": 3620,
       "image_count": 0,
-      "file_size": 15734,
-      "sha256_short": "68f0c76186f23e34"
+      "file_size": 15487,
+      "sha256_short": "e1070e24f46a21e9"
     },
     {
       "path": "my-diary/Diary-2026/39_第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论.md",
       "title": "第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论",
       "label": "my-diary/Diary-2026",
-      "word_count": 5739,
+      "word_count": 5831,
       "image_count": 0,
-      "file_size": 25347,
-      "sha256_short": "1d7da46abc341fac"
+      "file_size": 25966,
+      "sha256_short": "57889cc3268405f0"
     },
     {
       "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）.md",
       "title": "第41周（2026.10.05-2026.10.11）",
       "label": "my-diary/Diary-2026",
-      "word_count": 477,
-      "image_count": 0,
-      "file_size": 1634,
-      "sha256_short": "0bc8ef3a7e492228"
+      "word_count": 1819,
+      "image_count": 18,
+      "file_size": 9712,
+      "sha256_short": "66e842bb8c6ffc6a"
     },
     {
-      "path": "my-diary/Diary-2026/41_第42周.md",
-      "title": "第42周",
+      "path": "my-diary/Diary-2026/41_第42周（2026.10.12-2026.10.18）.md",
+      "title": "第42周（2026.10.12-2026.10.18）",
       "label": "my-diary/Diary-2026",
-      "word_count": 5,
+      "word_count": 270,
       "image_count": 0,
-      "file_size": 26,
-      "sha256_short": "3a75cea06b09fbae"
+      "file_size": 1413,
+      "sha256_short": "f143f47a9223a6b3"
     },
     {
       "path": "my-diary/Diary-2022/00_index.md",
@@ -503,7 +503,7 @@
       "word_count": 1220,
       "image_count": 0,
       "file_size": 7956,
-      "sha256_short": "d429731129febd16"
+      "sha256_short": "b54f10549363d13e"
     },
     {
       "path": "my-diary/Diary-2025/01_第1周（2024.12.30-2025.01.05）儒略历与格里高利历.md",
@@ -527,10 +527,10 @@
       "path": "my-diary/Diary-2025/03_第3周（2025.01.13-2025.01.19）.md",
       "title": "第3周（2025.01.13-2025.01.19）",
       "label": "my-diary/Diary-2025",
-      "word_count": 642,
+      "word_count": 635,
       "image_count": 0,
-      "file_size": 2436,
-      "sha256_short": "01183bcc4c434ec0"
+      "file_size": 2376,
+      "sha256_short": "87ce7708715085e0"
     },
     {
       "path": "my-diary/Diary-2025/04_第4周（2025.01.20-2025.01.26）.md",
@@ -1016,7 +1016,7 @@
       "word_count": 90,
       "image_count": 0,
       "file_size": 502,
-      "sha256_short": "61e1f3bbb1d53f00"
+      "sha256_short": "6224613b813df070"
     },
     {
       "path": "my-diary/Diary-2006-2007/01_2006（丙戌）.md",
