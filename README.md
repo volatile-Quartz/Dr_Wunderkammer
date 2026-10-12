@@ -7,8 +7,8 @@
 ## 文章列表
 | 序号 | 文章标题 | 更新时间 | 篇章统计 | 字数统计 | 插图统计 |
 |:------:|:------------------:|:------------------:|:------:|:------:|:------:|
-| 1 | [「Diary」2026](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 2026-10-12 00:17 | 42 | 116052 | 3 |
-| 2 | [「Diary」2025](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27) | 2026-10-08 19:39 | 1 | 548 | 0 |
+| 1 | [「Diary」2025](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27) | 2026-10-12 08:43 | 57 | 90556 | 0 |
+| 2 | [「Diary」2026](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 2026-10-12 00:17 | 42 | 116052 | 3 |
 | 3 | [「Diary」2017-2018](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/20) | 2026-09-09 23:45 | 1 | 12 | 0 |
 | 4 | [「Diary」2006-2007](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16) | 2026-09-09 23:45 | 1 | 140 | 0 |
 | 5 | [「Diary」2002-2003](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/14) | 2026-09-09 23:45 | 1 | 196 | 0 |
@@ -25,9 +25,9 @@
 
 ## 博客统计
 - 年份合集：14 个
-- 周记/月记：55 篇
+- 周记/月记：111 篇
 - 新增篇章：1
-- 更新篇章：2
-- 总字数：117038
+- 更新篇章：3
+- 总字数：207046
 - 总插图数：3
-- 最后更新：2026-10-12 00:17:56
+- 最后更新：2026-10-12 08:44:16
