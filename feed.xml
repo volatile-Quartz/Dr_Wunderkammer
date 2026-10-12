@@ -5,7 +5,26 @@
     <link>https://github.com/volatile-Quartz/Dr_Wunderkammer</link>
     <description>Blog generated from GitHub issues</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 08:52:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:53:09 GMT</lastBuildDate>
+
+    <item>
+        <title>「Diary」2006-2007</title>
+        <link>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16</link>
+        <description>存放2006年和2007年的日记。
+优先展示优化后的文章。
+
+原版手稿见scratch-paper系列
+日期 | 编号
+:-:|:-:
+2006-11-30 星期四 | 3201
+2006-12-04 星期一 | 3202
+2006-12-27 星期三 | 3203
+2006-12-31 星期日 | 3204、3205、3206
+2007-01-09 星期二 | 3207
+2007-01-25 星...</description>
+        <pubDate>Mon, 12 Oct 2026 00:52:39 GMT</pubDate>
+        <guid>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16</guid>
+    </item>
 
     <item>
         <title>「Diary」2002-2003</title>
@@ -68,25 +87,6 @@
 待整理..</description>
         <pubDate>Wed, 09 Sep 2026 15:45:40 GMT</pubDate>
         <guid>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/20</guid>
-    </item>
-
-    <item>
-        <title>「Diary」2006-2007</title>
-        <link>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16</link>
-        <description>存放2006年和2007年的日记。
-优先展示优化后的文章。
-
-原版手稿参见C-P系列：
-日期 | c-p 编号
-:-:|:-:
-2006-11-30 星期四 | 3201
-2006-12-04 星期一 | 3202
-2006-12-27 星期三 | 3203
-2006-12-31 星期日 | 3204、3205、3206
-2007-01-09 星期二 | 3207
-2007-01-25 星期四 |...</description>
-        <pubDate>Wed, 09 Sep 2026 15:45:39 GMT</pubDate>
-        <guid>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16</guid>
     </item>
 
     <item>
