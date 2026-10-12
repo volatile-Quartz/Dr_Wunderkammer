@@ -1,0 +1,449 @@
+============================================================
+拉取 372 → 过滤 42 → 去重后 304
+  [剔除] さやの助|【ASMR】初質問コーナー/囁き  (keyword:asmr)
+  [剔除] Duckk ASMR|中文ASMR｜Quantum Speed Reading Training Course｜Liar series｜量子速读培训班  (keyword:asmr)
+  [剔除] Duckk ASMR|中文ASMR｜Quantum Speed Reading Training Course｜Liar series｜量子速读培训班  (keyword:asmr)
+  [剔除] 水音世界观|水音世界观--10月6日--三航母近万兵力合围中东！特朗普扬言中期选举后大打，甚至放话“可以让伊朗摧毁洛杉矶”！  (keyword:水音世界观)
+  [剔除] Happy Around!|気分上々↑↑ (Cover) (心情HIGH翻天↑↑)  (keyword:cover)
+  [剔除] polly polly asmr|ASMR MIC TRIGGERS  (keyword:asmr)
+  [剔除] polly polly asmr|ASMR MIC TRIGGERS  (keyword:asmr)
+  [剔除] Tingting ASMR|[ASMR] Relaxing Chinese Calligraphy  (keyword:asmr)
+  [剔除] 水樹奈々/Raychell|WOW WAR TONIGHT～時には起こせよムーヴメント～ (Cover) (TV动画《D4DJ First Mix》片尾曲)  (keyword:cover)
+  [剔除] 水樹奈々|WOW WAR TONIGHT～時には起こせよムーヴメント～ (AIRI Cover Ver.)  (keyword:cover)
+  [剔除] Raychell|WOW WAR TONIGHT～時には起こせよムーヴメント～ (SHANO Cover Ver.)  (keyword:cover)
+  [剔除] 枫糖七茶|【剧情杂谈】久违了！如此美味的少女乐队！  (keyword:杂谈)
+  [剔除] 肝帝董佳宁|支持率冲到第一，选择党杀疯了，难道德国人要重新奋斗了？  (blacklist_artists)
+  [剔除] 全球动态局势|美美国际观察10月10日直播2。你想看哪就看哪吗。世界局势今日热点。  (blacklist_artists)
+  [剔除] 全球动态局势|美美国际观察10月10日直播2。你想看哪就看哪吗。世界局势今日热点。  (blacklist_artists)
+  [剔除] 全球动态局势|美美国际观察10月10日直播1。中东干急眼了。世界局势今日热点。  (blacklist_artists)
+  [剔除] 水音世界观|水音世界观--10月5日--美军惊慌撤离！12架B1轰炸机连夜逃回本土，布什号航母溜去普吉岛度假？中东大战局势大反转  (keyword:水音世界观)
+  [剔除] 水音世界观|水音世界观--10月5日--美军惊慌撤离！12架B1轰炸机连夜逃回本土，布什号航母溜去普吉岛度假？中东大战局势大反转  (keyword:水音世界观)
+  [剔除] millsage|unravel (Cover)  (keyword:cover)
+  [剔除] millsage|青のすみか (Cover)  (keyword:cover)
+  [剔除] millsage|ロウワー (Cover) (Lower one's eyes)  (keyword:cover)
+  [剔除] 一家Dumb Rock!|微笑みの爆弾 (Cover)  (keyword:cover)
+  [剔除] 一家Dumb Rock!|Mela! (Cover)  (keyword:cover)
+  [剔除] 一家Dumb Rock!|革命道中 (Cover)  (keyword:cover)
+  [剔除] 时局news|10月8日--也门版淮海战役彻底合围！胡塞40万大军封死口袋阵，沙特伪军成建制倒戈投降！  (blacklist_artists)
+  [剔除] 燕三嘤嘤嘤|法国最近太烧心了  (blacklist_artists)
+  [剔除] 水音世界观|水音世界观--10月8日--美官方实锤81架战机报废！5个月烧光380亿，美军中央司令部被曝选前重启对伊全面空袭！  (keyword:水音世界观)
+  [剔除] Baby Whisper ASMR|ASMR That Feels Way Too Real 💗  (keyword:asmr)
+  [剔除] Baby Whisper ASMR|ASMR That Feels Way Too Real 💗  (keyword:asmr)
+  [剔除] baitu asmr|ASMR Rambling In Chinese (Soft Spoken, No English)  (keyword:asmr)
+  [剔除] 水音世界观|水音世界观--9月30日--万米高空爆发肉搏！俄机长与乌副驾驶驾驶舱大打出手，客机极端俯冲4500米触动劫机警报！  (keyword:水音世界观)
+  [剔除] 时局news|10月7日--胡塞诱敌深入大翻盘！反包围60万联军急撒二维码传单劝降，沙特本土沦为禁飞区浓烟遮天！  (blacklist_artists)
+  [剔除] 时局news|10月6日--中美俄朝四方闭门会谈定型！日本被踢出局破防撒泼，高市叫嚣产30万架无人机逼宫普京！  (blacklist_artists)
+  [剔除] 时局news|10月5日 --普京怒发全球最强通缉令！俄军狂轰斩断基辅所有大桥，数百万人被困大断电全城陷入石器时代！  (blacklist_artists)
+  [剔除] 黑橘奈叶香|此二女有谈的风险吗？  (blacklist_artists)
+  [剔除] 水上見月|【杂谈】聊聊东邦最有笑容的我们仨  (keyword:杂谈)
+  [剔除] nana7 ASMR|ASMR IN CHINESE 中文ASMR (With Subtitles)  (keyword:asmr)
+  [剔除] MakiOfLonest|Chinese ASMR with Chinese items (subs✔️)  (keyword:asmr)
+  [剔除] baitu asmr|ASMR Dry vs Wet Face Massage (Which Is Better?)  (keyword:asmr)
+  [剔除] GuluLand ASMR|Lore ASMR🪄👑Your King Welcomes You to the Magical Gululand (Fantasy Worldbuilding Roleplay)  (keyword:asmr)
+  [剔除] 燕三嘤嘤嘤|印度军事这次支棱起来了  (blacklist_artists)
+  [剔除] 时局news|10月1日--冷战后首次书面战书！俄正式发函警告北约：敢隔离加里宁格勒，战术核武直接精准斩首！  (blacklist_artists)
+============================================================
+
+## 待确认歌手组合（无映射、含分隔符）
+  *Luna/ゆある/ねんね
+  96猫/置鮎龍太郎/千葉翔也
+  ARMNHMR/Synymata/Medyk
+  Abandoned/Nytrix/DVRKCLOUD
+  Academy of St. Martin in the Fields/Neville Marriner
+  Akiri/HowToPlayLN
+  Andris Nelsons/Wiener Philharmoniker
+  André Previn/Wiener Philharmoniker
+  Andy Beer/David Groves/Graham Kirkby/John Olive/Mike Clements/Riccardo Muti/Wiener Philharmoniker
+  Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+  Bellyjay/KPHK
+  Berliner Philharmoniker/Karl Böhm
+  Camellia, Nanahira
+  Christian Thielemann/Wiener Philharmoniker
+  DJ Genki/yukacco
+  DJ Noriken/aran
+  Daniel Barenboim/Wiener Philharmoniker
+  David Groves/Riccardo Muti/Wiener Philharmoniker
+  EDWARD GARDNER/LONDON PHILHARMONIC ORCHESTRA
+  Far Out/DVRKCLOUD/RBBTS
+  Herbert von Karajan/Berliner Philharmoniker
+  Herbert von Karajan/Wiener Philharmoniker
+  Iona Brown/Academy of St. Martin in the Fields/Marisa Robles
+  Jason Ross/Grant/your friend polly
+  Jason Ross/Trivecta/RBBTS
+  Jeko/Syuenn/Krasper2
+  José Carreras/Luciano Pavarotti/Plácido Domingo/Zubin Mehta/Orchestra of the Rome Opera House/Orchestra del Maggio Musicale Fiorentino
+  Juggernaut.&アイロボ
+  Kobaryo/かめりあ
+  Krescent/neur6sia/LABYRINTH/DJ Aomori
+  Leonard Bernstein/New York Philharmonic
+  Loveit Core/z²/BigDog Oof
+  Mariss Jansons/Wiener Philharmoniker
+  Nanahira, コツメカワウソ’S
+  NormalM/f2
+  Nurko/Chandler Leighton
+  Nurko/Crystal Skies/KnownAsNat
+  Nurko/Devon Baldwin
+  Pardubice Czech Chamber Philharmonic Orchestra/John Georgiadis
+  Picco&nyamura
+  Riccardo Muti/Wiener Philharmoniker
+  Riccardo Muti/Wiener Philharmoniker/Johann Strauss, Jr.
+  Seven Lions/Dia Frampton
+  Seven Lions/Jason Ross/Fiora
+  Seven Lions/So Below
+  Stefan Milenkovich & Marko Hatlak
+  Synthion/Kotori
+  Synymata/KLAXX/Eke
+  Trivecta/Jay Mason
+  Wiener Philharmoniker/Claudio Abbado
+  Wiener Philharmoniker/Fritz Reiner/Johannes Brahms
+  Wiener Philharmoniker/Herbert von Karajan
+  Wiener Philharmoniker/Josef Sivo/Emanuel Brabec/Herbert von Karajan
+  Wiener Philharmoniker/Riccardo Muti
+  Wiener Philharmoniker/Willi Boskovsky
+  Wiener Singverein/Helmut Froschauer/Wiener Philharmoniker/Herbert von Karajan
+  Yetep/Luma
+  Zubin Mehta/Wiener Philharmoniker/Johann Strauss, Jr.
+  Zubin Mehta/Wiener Philharmoniker/Johann Strauss, Sr.
+  Zubin Mehta/Wiener Philharmoniker/Josef Strauss
+  littlealone100/Saiakoup
+  今井麻美/近藤佳奈子
+  削除/xi
+  千野依&秋野桜
+  御莉姫&廉
+  成龙&李宗盛&周华健
+  石渡太輔/佐藤ノリチカ
+  花鋏キョウ&藍月なくる
+  马友友/Kathryn Stott
+----
+
+## 逐行清单
+
+### 2026-10-05（40 首）
+云绵安 | 我觉得气泡音很美味
+一池周啾 | 第8话
+MyGO!!!!! | 迷星叫  《专辑:迷星叫》
+MyGO!!!!! | 名無声  《专辑:迷星叫》
+Dirk Reichardt | Weekend  《专辑:Kokowääh 2 (Original Motion Picture Soundtrack)》
+John Dreamer | Rise - Epic Music  《专辑:Rise - Epic Music》
+Epic Score | Liberators (解放者)  《专辑:Vengeance - ES033》
+Blazo | Righteous Path  《专辑:Introducing Mellow》
+WyvernP | Clock Paradox (时钟悖论)  《专辑:Clock Paradox》
+削除/xi | STORIA  《专辑:Cytus - Chapter M》
+tn-shi | Synthesis.  《专辑:Synthesis.》
+Hyun | Grin  《专辑:In The Wind And In Time》
+一池周啾 | 第9话
+一池周啾 | 第10话
+ミツキヨ | Constant Moderato Piano Arrange  《专辑:Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～》
+Le Castle Vania | Wetwork  《专辑:Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack)》
+takehirotei | SEISHUN://NO_HACKING  《专辑:SEISHUN://NO_HACKING》
+Plum - Melodic Artist | 별이 보이지 않는 밤 (2021 Remake) (看不见星星的夜晚)  《专辑:Replay?》
+Bellyjay/KPHK | MONTAGEM YUME  《专辑:MONTAGEM YUME》
+Laur | Calamity of the Mystic Garden : Doom  《专辑:Calamity of the Mystic Garden : Doom》
+XI | Anima  《专辑:古树旋律 Deemo》
+久石譲 | 海の見える街 (能看见海的城市)  《专辑:魔女の宅急便 サントラ音楽集》
+AGERA | Lost Soul  《专辑:Lost Soul》
+CrossingSound | Engine x Start!! (melody mix)  《专辑:Engine x Start!! (melody mix)》
+Imıss | Will you still love me like this？  《专辑:Will you love me like this？》
+Bandari | Annie's Wonderland (安妮的仙境)  《专辑:Bandari 20th Anniversary Collection》
+Halv | 虚  《专辑:虚》
+Angelize | layering2  《专辑:TEARS of an Angel》
+饭碗的彼岸 | 画框中的梅阿丽  《专辑:画框中的梅阿丽》
+Snakywine | Classy Kitty (优雅小猫)  《专辑:Classy Kitty》
+Kaeru Underground | Suspenseful Third Day  《专辑:古树旋律 Deemo》
+Loveit Core/z²/BigDog Oof | 惑わせらいやー feat. z²,BigDogOof (魅惑骗子 feat. z²,BigDogOof)  《专辑:惑わせらいやー feat. z²,BigDogOof》
+Instupendo | Six Forty Seven (6：47)  《专辑:Six Forty Seven》
+nyamura | cat reincarnation (猫重生)  《专辑:Another Seraph》
+Plum - Melodic Artist | Vanilla Flavored Soda (香草味苏打)  《专辑:Harmonic Puzzle》
+Krescent/neur6sia/LABYRINTH/DJ Aomori | Celestial Winter Wake (天穹冬醒)  《专辑:Celestial Winter Wake》
+NormalM/f2 | All in on Your Shadow  《专辑:All in on Your Shadow》
+Gardens | Twin Bloom  《专辑:Twin Bloom》
+MiMi | Athena's Paragraph  《专辑:Athena's Paragraph》
+millsage_家団_ofc | 一家Dumb Rock!「ピースフル・ピーシーズ！（Peaceful・Pieces!）」【Official Music Video】
+
+### 2026-10-06（44 首）
+Aoi | TYPE-Rebellion  《专辑:Dynamix Event》
+Ruvver | UCHOUTEN Highway  《专辑:Dynamix Event》
+Jeko/Syuenn/Krasper2 | RADIAN LUNACY  《专辑:RADIAN LUNACY (4WC 2026 Finals Tiebreaker)》
+Raphiiel | AscensiO  《专辑:AscensiO》
+ぺのれり | Vacant Rhapsody (空煦狂想)  《专辑:Vacant Rhapsody》
+Kuro | Mare Aeterna  《专辑:Mare Aeterna》
+Akiri/HowToPlayLN | The Cry of The Uncertain  《专辑:The Cry of The Uncertain》
+Queen of Wand | ハートのA (红心A)  《专辑:明灭王女》
+littlealone100/Saiakoup | Light (Piano Mix)  《专辑:Light》
+M2U | Wicked Fate  《专辑:“Deemo“ 原创音乐集》
+かめりあ | Exoplanetary Mirage  《专辑:Exoplanetary Mirage》
+牛牛piano | 息 序  《专辑:息序》
+夜暮青 | 零号患者 (PVZ恐怖版序章BOSS战二阶段主题曲)  《专辑:PVZ_BGM补全计划·恐怖版》
+단비 | 비 내리던 가로수길 (Raining Garosu-gil Road) (Piano)  《专辑:사랑이 꽃을 닮아 (Loves Like A Flower)》
+Plum - Melodic Artist | Kaleidoscope (万花筒)  《专辑:PROJECT_ANAMNESIS》
+Junk | Life is PIANO (Club Extend) (琴键人生)  《专辑:Groundbreaking -G2R2018 COMPILATION ALBUM- X》
+Qutabire | In the Garden (繁花之间)  《专辑:Code：Aster》
+Pax Japonica Groove | PianoReturns-Superior Mix  《专辑:KNOCK!BACK!ROCK!》
+Elliot Hsu | A Guiding Star (引航之星)  《专辑:Resonant Whispers》
+Jason Ross/Trivecta/RBBTS | From Ashes To Love  《专辑:From Ashes To Love》
+Seven Lions/Dia Frampton | Before You (feat. Dia Frampton)  《专辑:Beyond The Veil》
+Seven Lions | Someday  《专辑:Beyond the Veil》
+Jason Ross/Grant/your friend polly | All I Need (feat. your friend polly)  《专辑:Atlas》
+Seven Lions/So Below | Every Time (feat. So Below)  《专辑:Every Time (feat. So Below)》
+Far Out/DVRKCLOUD/RBBTS | Diamond Heart (feat. RBBTS)  《专辑:Diamond Heart (feat. RBBTS)》
+ARMNHMR/Synymata/Medyk | Lonely Nights  《专辑:Waiting For Love》
+Trivecta/Jay Mason | Sail Away (feat. Jay Mason)  《专辑:Sail Away (feat. Jay Mason)》
+Nurko/Crystal Skies/KnownAsNat | Lost Without You  《专辑:Lost Without You》
+Seven Lions/Jason Ross/Fiora | See You Again  《专辑:See You Again EP》
+Nurko/Devon Baldwin | Hallelujah  《专辑:Hallelujah》
+Abandoned/Nytrix/DVRKCLOUD | Tides  《专辑:Tides》
+Yetep/Luma | Wouldn't Know You  《专辑:Wouldn't Know You》
+央视网 | 每周质量报告 | “跑偏”的明厨亮灶
+毛老猫 | 从mujica到梦限大，邦多利你到底咋了？
+毛老猫 | 梦限大终于（快）播完了可以开骂了
+毛老猫 | mygo后最好的少女乐队剧情！深度解析millsage！！
+一池周啾 | 【梦限大】12集薇藤对话详细解析逐帧拉片纯享版——贯彻创作就是贯彻与你共鸣，方向不同信念与共。12集reaction【bilibilionly同人扶持计划】
+Nurko/Chandler Leighton | Disappearing Now  《专辑:Disappearing Now》
+土星皇家交响乐团 | 鸢尾花圆舞曲  《专辑:《复兴》组曲》
+土星皇家交响乐团 | 降B大调第四钢琴协奏曲，Op.24：第一乐章，小快板  《专辑:降B大调第四钢琴协奏曲》
+土星皇家交响乐团 | 降B大调第四钢琴协奏曲，Op.24：第二乐章，慢板  《专辑:降B大调第四钢琴协奏曲》
+天羽音みらん | 【天羽音みらん】小提琴 - JUST COMMUNICATION《新机动战记高达W 》OP
+波士顿圆脸 | 巴西要变天：政变、暗杀，但懂小将全盛袭来
+OurNotesOfficial | TV动画「BanG Dream! YUME∞MITA」 x 《BanG Dream! Our Notes》— STORY LINK — PV公开🛸
+
+### 2026-10-07（43 首）
+HEMRecords | 听这种音乐比较能装屄（17）· Future Bass
+镜哥的世界 | 外国网友：这几天中国人是不是承包了整个地球
+MyGO_AveMujica | 剧场版「BanG Dream! Ave Mujica prima aurora」30秒CM
+土星皇家交响乐团 | 第四十号交响曲，Kv.550：第一乐章，较快的快板  《专辑:Kv.550 莫扎特：G小调第四十号交响曲》
+Die Orsons | Dear Mozart  《专辑:Dear Mozart》
+Die Orsons | Schwung in die Kiste  《专辑:Bravo Hits 89》
+Die Orsons | Ventilator  《专辑:What's Goes?》
+Die Orsons | Leb schnell  《专辑:Leb schnell》
+Die Orsons | Schneeweiß  《专辑:Schneeweiß》
+土星皇家交响乐团 | 第四十号交响曲，Kv.550：第二乐章，行板  《专辑:Kv.550 莫扎特：G小调第四十号交响曲》
+土星皇家交响乐团 | 第四十号交响曲，Kv.550：第三乐章，小步舞曲  《专辑:Kv.550 莫扎特：G小调第四十号交响曲》
+はるまきごはん | ディナーベル（Dinner Bell） (晚餐铃)  《专辑:ディナーベル（Dinner Bell）Self Cover》
+土星皇家交响乐团 | 第四十号交响曲，Kv.550：第四乐章，活泼的快板  《专辑:Kv.550 莫扎特：G小调第四十号交响曲》
+土星皇家交响乐团 | 降B大调第四钢琴协奏曲，Op.24：第三乐章，活泼的快板  《专辑:降B大调第四钢琴协奏曲》
+Synymata/KLAXX/Eke | Hollow Eyes (feat. EKE)  《专辑:Hollow Eyes (feat. EKE)》
+きくお | 水の神殿  《专辑:KIKUOWORLD》
+きくお | 人肉林からの楽しい逃走  《专辑:KIKUOWORLD》
+きくお | 迷子の廃園  《专辑:KIKUOWORLD》
+きくお | 暗叫  《专辑:KIKUOWORLD》
+きくお | 夢の海  《专辑:KIKUOWORLD》
+きくお | 青いピラミッド  《专辑:KIKUOWORLD》
+きくお | 終末の花  《专辑:KIKUOWORLD》
+きくお | 夢の始まり  《专辑:KIKUOWORLD》
+きくお | 楽しい楽しい悪夢へおいで  《专辑:きくおミク2》
+Nanahira, コツメカワウソ’S | 乙女のタクティクス  《专辑:乙女のタクティクス》
+Nanahira, コツメカワウソ’S | 乙女のタクティクス - Instrument  《专辑:乙女のタクティクス》
+いきづらい部！ | Tale of Primavera - Off Vocal  《专辑:Tale of Primavera》
+いきづらい部！ | Tale of Primavera  《专辑:Tale of Primavera》
+Kurubukko | Transparency  《专辑:Transparency》
+Camellia, Nanahira | comet-chaser (lemmon*remake)  《专辑:Moving!》
+Silent Siren | Nicoichi  《专辑:Nicoichi》
+いきづらい部！ | What is my LIFE?  《专辑:What is my LIFE?》
+凉默Coolsilence_ | 【描改动画】蕾叶的蛋包饭心动魔法☆♪
+AdeIiae | 【一家Dumb Rock×家有儿女】01 神探千樱梨
+惊饕骇浪 | 爱情公寓但是一家Dumb Rock!
+好饿好饿我想吃饭 | 寿来！️️寿来！️️寿来！️️
+好饿好饿我想吃饭 | [AI奏多]花に亡霊（花上亡灵）“我不想化为一道诅咒”
+吉他战士六花 | 对的对的，我们家团就是这样的发米粒！
+碱性猫毛 | 以防你们不知道新邦剧情有制作动画
+花园多惠Official | 【BanG Dream!】六兆年と一夜物語 EX ALL PERFECT 但是Our Notes
+用户_23570001 | 以防你不知道新邦的新角色能有多重女
+只为百合而活 | 这是纯洁萝莉可以看的吗？😰
+镜哥是本人 | 印度人在美国机场零元购太阳镜，想吃时间差带回印度
+
+### 2026-10-08（53 首）
+Zubin Mehta/Wiener Philharmoniker/Johann Strauss, Sr. | Freiheits-Marsch, Op. 226
+Zubin Mehta/Wiener Philharmoniker/Josef Strauss | Dorfschwalben aus Österreich, Walzer, Op. 164
+Wiener Philharmoniker/Willi Boskovsky | Demolirer-Polka - polka française Op.269 (1863)
+Andy Beer/David Groves/Graham Kirkby/John Olive/Mike Clements/Riccardo Muti/Wiener Philharmoniker | Lagunen-Walzer, Op. 411
+Wiener Johann Strauss Orchester | Luftig und duftig, Op. 206  《专辑:Illustrationen - Historical Recording》
+Christian Thielemann/Wiener Philharmoniker | Der Zigeunerbaron:Ouvertüre
+Riccardo Muti/Wiener Philharmoniker/Johann Strauss, Jr. | Accelerationen, Walzer, Op. 234
+Pardubice Czech Chamber Philharmonic Orchestra/John Georgiadis | Das Veilchenmadel: Fidele Bruder-Marsch
+Mariss Jansons/Wiener Philharmoniker | Entweder - oder!, Polka schnell, Op. 403
+Wiener Philharmoniker/Riccardo Muti | Transaktionen, Op. 184
+Zubin Mehta/Wiener Philharmoniker/Johann Strauss, Jr. | Annen-Polka, Op. 117
+Andris Nelsons/Wiener Philharmoniker | Tritsch-Tratsch Polka, Op. 214
+Andy Beer/David Groves/Graham Kirkby/John Olive/Mike Clements/Riccardo Muti/Wiener Philharmoniker | Wein, Weib und Gesang, Op. 333 (Live)
+David Groves/Riccardo Muti/Wiener Philharmoniker | Die Bajadere, Op. 351
+Riccardo Muti/Wiener Philharmoniker | An der schönen blauen Donau, Walzer, Op. 314
+Riccardo Muti/Wiener Philharmoniker | Radetzky-Marsch, Op. 228
+Wiener Philharmoniker/Fritz Reiner/Johannes Brahms | Hungarian Dance No. 19 in B Minor
+Georges Prêtre | Carmen (1997 Digital Remaster), Act 1:L'amour est un oiseau rebelle (Habanera)
+Eugen Doga | Gramophone  《专辑:Cascade of Dreams》
+Wiener Philharmoniker/Herbert von Karajan | Nutcracker Suite, Op.71a:3. Waltz Of The Flowers
+Wiener Philharmoniker/Claudio Abbado | Hungarian Dance No.1 in G minor
+Erich Kunzel | Whiplash Polka, Op. 60
+The City of Prague Philharmonic Orchestra | Double Trouble (From "Harry Potter and the Prisoner of Azkaban")  《专辑:The Complete Harry Potter Film Music Collection》
+Herbert von Karajan/Wiener Philharmoniker | The Moldau (from Má Vlast)
+André Previn/Wiener Philharmoniker | Die Fledermaus / Act 3:Nr.12 Entr'acte
+Wiener Philharmoniker/Claudio Abbado | Hungarian Dance No.4 In F Sharp Minor
+Wiener Philharmoniker | Aram Khachaturian: Gayaneh - Suite No. 1: Sabre Dance
+Wiener Philharmoniker/Herbert von Karajan | Unter Donner und Blitz, Polka, Op.324
+José Carreras/Luciano Pavarotti/Plácido Domingo/Zubin Mehta/Orchestra of the Rome Opera House/Orchestra del Maggio Musicale Fiorentino | 'O sole mio
+Stefan Milenkovich & Marko Hatlak | La Cumparsita
+Wiener Philharmoniker/Herbert von Karajan | Pizzicato Polka (1870)
+马友友/Kathryn Stott | Salut d'Amour, Op. 12
+Mariss Jansons/Wiener Philharmoniker | UNO - Marsch
+Berliner Philharmoniker/Karl Böhm | Symphony No. 10 in G Major, K. 74:3. Allegro
+Herbert von Karajan/Berliner Philharmoniker | Orchestral Suite No. 2 in B minor, BWV 1067: IV.Polonaise
+Daniel Barenboim/Wiener Philharmoniker | Phönix-Marsch, Op. 105
+Wiener Singverein/Helmut Froschauer/Wiener Philharmoniker/Herbert von Karajan | Requiem in D Minor, K. 626: 3. Sequentia: Lacrimosa
+Anton Bruckner | Symphony No. 1 in C minor, WAB 101:III.Scherzo. Lebhaft
+Johann Sebastian Bach | Suite No.3 in D, BWV 1068:2. Air
+290 André Rieu | Alte Kameraden
+Dmitri Shostakovich | VI. Waltz 2 from Jazz Suite No. 2 (Eyes Wide Shut)
+Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson | Carmen:No.1 Prélude
+Riccardo Minasi | Concerto RV 510 in C Minor: I.Allegro
+Academy of St. Martin in the Fields/Neville Marriner | L'Estro Armonico No. 3 in G major:I. Allegro
+Iona Brown/Academy of St. Martin in the Fields/Marisa Robles | Harp Concerto in B flat, Op.4, No.6, HWV 294:3. Allegro moderato
+Leonard Bernstein/New York Philharmonic | Under The Double Eagle  《专辑:Leonard Bernstein Conducts Great Marches》
+Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson | Carmen, Act II:No.14 Couplets : Votre toast, je peux vous le rendre...Toréador, en garde! (Escamillo/Carmen/Frasquita/Mercédès/Moralès/Zuniga/Amis d'Escamillo)
+Iona Brown/Academy of St. Martin in the Fields/Marisa Robles | Concerto for Harp and Orchestra in C:3. Rondo (Allegro agitato)
+军情播报 | 上巧嘴说世界--10月8日-上
+AIChannel中国绊爱 | 根本没有这种合唱！三倍甜度《恋人未满》💗再靠近一点点，我就跟你走~【爱的小心思】
+孤烟暮蝉 | 印度还是搞不清状况，以为只要自己舍得掏钱，中国就一定会卖技术
+OurNotesOfficial | 🎉「拜托了，倾心一掷」活动预告
+OurNotesOfficial | 🎵《BanG Dream! Our Notes》乐曲试玩——《Odd Dice》
+
+### 2026-10-09（28 首）
+Carameii | The Amazing Digital Circus (Epic Orchestral)  《专辑:The Amazing Digital Circus (Epic Orchestral)》
+UnicornPhantom | FallenAngel  《专辑:Fallen Angel》
+AnRain安林 | 星河不及你  《专辑:星河不及你》
+Re | Summer
+Juggernaut.&アイロボ | Re:Summer  《专辑:Re:Summer feat.アイロボ》
+EDWARD GARDNER/LONDON PHILHARMONIC ORCHESTRA | The Wooden Prince: Dance No. 3, Dance of the Waves  《专辑:The Wooden Prince: Dance No. 3, Dance of the Waves》
+ナナツカゼ | 空耳  《专辑:空耳》
+Plum - Melodic Artist | Maelstrom  《专辑:Melody From Sky》
+OurNotesOfficial | 🎉「光之所至，伊始之时招募」开启预告！
+Aoi | c.s.q.n.
+Aoi | βlαnoir
+Aoi | Mirzam
+Aoi | γuarδina
+Milet | Parachute
+Milet | Somebody
+Milet | inside you
+Milet | Drown
+Milet | You & I
+Milet | Grab the air
+Milet | STAY
+Riccardo Muti/Wiener Philharmoniker | Brautschau, Polka française, Op. 417
+Wiener Philharmoniker/Herbert von Karajan | Swan Lake, Op.20 Suite:1. Scene - Swan Theme
+Wiener Philharmoniker/Herbert von Karajan | Swan Lake, Op.20 Suite:2. Valse in A
+Wiener Philharmoniker/Herbert von Karajan | Swan Lake, Op.20 Suite:3. Danse des petits cygnes
+Wiener Philharmoniker/Josef Sivo/Emanuel Brabec/Herbert von Karajan | Swan Lake, Op.20 Suite:4. Scene
+Wiener Philharmoniker/Herbert von Karajan | Swan Lake, Op.20 Suite:5a. Danse Hongroise
+Wiener Philharmoniker/Herbert von Karajan | Swan Lake, Op.20 Suite:6b. Final Scene
+Wiener Philharmoniker/Herbert von Karajan | Nutcracker Suite, Op.71a:1. Miniature Overture
+
+### 2026-10-10（34 首）
+一家Dumb Rock! | ホーミー・タイッ！！ (Homie's Tie!!)  《专辑:ホーミー・タイッ！！》
+一家Dumb Rock! | ジャイアント・キラー・チューン  《专辑:ジャイアント・キラー・チューン》
+一家Dumb Rock! | ピースフル・ピーシーズ！  《专辑:ピースフル・ピーシーズ！》
+一家Dumb Rock! | Keep on Riddim  《专辑:Keep on Riddim》
+Wiener Philharmoniker/Herbert von Karajan | Nutcracker Suite, Op.71a:March
+Wiener Philharmoniker/Herbert von Karajan | Nutcracker Suite, Op.71a:Dance Of The Sugar-Plum Fairy
+Wiener Philharmoniker/Herbert von Karajan | Nutcracker Suite, Op.71a:Russian Dance (Trepak)
+Wiener Philharmoniker/Herbert von Karajan | Nutcracker Suite, Op.71a:Arabian Dance (Coffee)
+Wiener Philharmoniker/Herbert von Karajan | Nutcracker Suite, Op.71a:Chinese Dance (Tea)
+Wiener Philharmoniker/Herbert von Karajan | Nutcracker Suite, Op.71a:Dance Of The Reed-Pipes
+Wiener Philharmoniker/Herbert von Karajan | The Sleeping Beauty, Op.66 - Suite:Introduction And Lilac Fairy (Prologue)
+Wiener Philharmoniker/Herbert von Karajan | The Sleeping Beauty, Op.66 - Suite:Pas d'action (Adagio) (Act 1)
+Wiener Philharmoniker/Herbert von Karajan | The Sleeping Beauty, Op.66 - Suite:Pas de Caractère (Puss in Boots) (Act 3)
+Wiener Philharmoniker/Herbert von Karajan | The Sleeping Beauty, Op.66 - Suite:Panorama (Act 2)
+Wiener Philharmoniker/Herbert von Karajan | The Sleeping Beauty, Op.66 - Suite:Waltz (Act 1)
+快嘴摩卡酱 | 🐺吉他对决🎸
+天才美少女ykn | 17.代价
+天才美少女ykn | 18.即使一无所有
+天才美少女ykn | 19.在幸福之中
+Plum | Fallenera  《专辑:Beyond The Cloud》
+Kotoha | 透明夜  《专辑:透明夜》
+成龙&李宗盛&周华健 | 真心英雄  《专辑:一起飞》
+御莉姫&廉 | Masquerade Kill feat. 廉  《专辑:Masquerade Kill feat. 廉》
+Zaeiba_Official | 枣：有学妹加我好友吗
+花女星家帮 | 伊泽枣枣情在天语录一览
+千野依&秋野桜 | 無人区-Vacuum Track  《专辑:Phigros魔王曲》
+816ThreeNumbers | 無人区-Vacuum Track#ADD8E6
+拿弓子的波塞东 | 無人区-Vacuum Track#ADD8E6（翻自:咲夜） (翻奏: Catalpa Vs. SharK)  《专辑:波塞东音乐时间 | 游戏篇》
+Catalpa Vs. SharK | 無人区-Vacuum Track#ADD8E6（翻自:咲夜）  《专辑:Vacuum Track#ADD8E6》
+米缐p. | 无人区-Vacuum Track#ADD8E6-  《专辑:[BOFU2017]無人区-Vacuum Track#ADD8E6-》
+Picco&nyamura | your princess (nyamura ver.)  《专辑:your princess (nyamura ver.)》
+花鋏キョウ&藍月なくる | Purity (feat. 藍月なくる)  《专辑:Purity (feat. 藍月なくる)》
+琥珀琴师Louis | 樱花海岸  《专辑:樱花海岸》
+ナツノセ | 本当だよ  《专辑:本当だよ》
+
+### 2026-10-11（62 首）
+millsage_家団_ofc | millsage「鳴らす（奏鸣）」【Official Music Video】
+Leaf | MARENOIA  《专辑:MARENOIA》
+Void | Petrichor  《专辑:Petrichor》
+黒皇帝 | Scattered Faith (分散的信仰)  《专辑:Scattered Faith》
+DJ Noriken | La'qryma of the Wasteland  《专辑:La'qryma of the Wasteland》
+削除 | L'aventale  《专辑:L'aventale》
+Synthion/Kotori | Twin Skies  《专辑:Twin Skies》
+*Luna/ゆある/ねんね | タイムカプセル  《专辑:タイムカプセル》
+DJ Genki/yukacco | Planet (feat. Yukacco)  《专辑:HARDCORE SYNDROME 8》
+ity | 跨越次元的梦  《专辑:跨越次元的梦》
+ginkiha | Fading Star (褪色之星)  《专辑:Shade of Mythology》
+Team Grimoire | Vafþrúðnir  《专辑:Kathastrophe》
+Kobaryo | Prism Journey  《专辑:Prism Journey》
+削除 | D-Birth (Artcore)  《专辑:ADvantage》
+Kobaryo/かめりあ | Villain Virus  《专辑:MIXPEED ACTION》
+DJ Noriken/aran | Comet Coaster  《专辑:Comet Coaster》
+96猫/置鮎龍太郎/千葉翔也 | 気分上々↑↑ (心情嗨翻天↑↑)  《专辑:テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」》
+mihimaru GT | 気分上々↑↑  《专辑:気分上々↑↑》
+skutalu asmr | АСМР Осмотр у семейного врача | Осмотрю тебя | Тихий голос
+Steve Barakatt | Flying  《专辑:Best of》
+Missionary | 罪曲  《专辑:Dynamix Event》
+黒猫 | Chrysoberyl  《专辑:Dynamix Event》
+Nhato | Offshore  《专辑:Dynamix Event》
+ICBM | GOEMON  《专辑:Dynamix Event》
+MMRY | Go Escape  《专辑:Dynamix Event》
+sky_delta | Cryonix  《专辑:Dynamix Event》
+litmus* | Crank Up  《专辑:Dynamix Event》
+モリモリあつし | 紅  《专辑:Dynamix Event》
+Ebico | Persephone  《专辑:Dynamix Event》
+Street | Sakura Fubuki  《专辑:Dynamix Event》
+Jun Kuroda + はがね | AKI-ZAKURA  《专辑:Dynamix Event》
+Stereoberry | Vanilla_Sky  《专辑:Dynamix Event》
+udouddo | Hiccup Drunk  《专辑:Dynamix Event》
+Pan | Flarebirds of Scarlet Prism  《专辑:Dynamix Event》
+Pan | Starbirds Of Zenith Blue  《专辑:Dynamix Event》
+Praw | Cervelle Connexion  《专辑:Dynamix Event》
+Sound Souler | Soul Army  《专辑:Dynamix Event》
+3R2 | Theme of Rabi-Ribi  《专辑:Dynamix Event》
+Aoi | αterlβus  《专辑:Dynamix Event》
+Arch vs n3pu | Evoltex (poppi'n mix)  《专辑:Dynamix Event》
+移动端音游搬运小队 | 【DYNAMIX】Evoltex(poppi'n mix)[GIGA] All PERFECT! OMEGA Rank (BY: nanoflower)
+StarTK_Official | 彻底疯狂
+非洲のGUMI酱 | 周刊虚拟歌手中文曲排行榜♪740
+朱明瑛 | 回娘家  《专辑:明亮的眼睛》
+Happy Around! | Look at me♡  《专辑:Around and Around》
+Happy Around! | Dig Delight! (ver. 2024)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | Direct Drive! (ver. 2024)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | Happy Music♪ (ver. 2024)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | ぐるぐるDJ TURN!! (ver. 2024)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | Happy Around Days (ver. 2024)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | HONEST-happy a word- (ver. 2024)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | Summer Wonder (ver. 2024)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | パノラマリウム (ver. 2024)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | HAPPIEST☆DREAM (ver. 2024)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | 仲良しのシリウス (好友天狼星)  《专辑:Are you Happy? I’m Happy!》
+Happy Around! | カレーライスが大好き♡ (超喜欢咖喱饭♡)  《专辑:Are you Happy? I’m Happy!》
+一家Dumb Rock! | ホーミー・タイッ！！  《专辑:ホーミー・タイッ！！》
+磯村知美 | Butterfly Sky
+今井麻美/近藤佳奈子 | Don’t Look Back
+きくお | pinky promise  《专辑:BLAZBLUE SONG ACCORD #2 with CONTINUUM SHIFT II》
+石渡太輔/佐藤ノリチカ | Alexandrite
+夢限大みゅーたいぷ | エンプティパペット  《专辑:エンプティパペット》
+
+## 专辑候选（同专辑听满 2 首及以上）
+Are you Happy? I’m Happy! | Happy Around! | 11 首
+KIKUOWORLD | きくお | 8 首
+Kv.550 莫扎特：G小调第四十号交响曲 | 土星皇家交响乐团 | 4 首
+降B大调第四钢琴协奏曲 | 土星皇家交响乐团 | 3 首
+迷星叫 | MyGO!!!!! | 2 首
+Dynamix Event | Aoi | 2 首
+乙女のタクティクス | Nanahira, コツメカワウソ’S | 2 首
+Tale of Primavera | いきづらい部！ | 2 首
+ホーミー・タイッ！！ | 一家Dumb Rock! | 2 首
+Dynamix Event | Pan | 2 首
