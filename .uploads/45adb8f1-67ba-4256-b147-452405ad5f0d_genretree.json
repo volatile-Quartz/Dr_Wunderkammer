@@ -1,0 +1,41 @@
+{
+  "tree": {
+    "opera": "Classical",
+    "baroque": "Classical",
+    "trap": "Hip Hop",
+    "math rock": "Rock",
+    "math pop": "Pop/Rock",
+    "symphonic rock": "Rock",
+    "visual kei": "Rock(J系)",
+    "deutschrap": "Hip Hop"
+  },
+  "merge": {
+    "classic": "classical",
+    "classical music": "classical",
+    "classical symphony": "classical",
+    "klassik": "classical",
+    "romantic": "classical",
+    "positivity rap": "hip-hop"
+  },
+  "drop": [
+    "beats",
+    "beatmaker",
+    "conductor",
+    "orchestra",
+    "austrian",
+    "indian",
+    "united states",
+    "wiener philharmoniker",
+    "herbert von karajan",
+    "riccardo muti",
+    "zubin metha",
+    "beethoven",
+    "bandori",
+    "bang dream",
+    "d4dj",
+    "awadori",
+    "idol",
+    "seiyuu",
+    "rutracker"
+  ]
+}
