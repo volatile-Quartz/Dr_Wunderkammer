@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:53:17.435178+00:00",
+  "generated_at": "2026-10-13T06:01:08.462591+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -62,7 +62,7 @@
       "word_count": 912,
       "image_count": 0,
       "file_size": 5943,
-      "sha256_short": "08dbda17a34f8391"
+      "sha256_short": "a10d190798b62610"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -428,10 +428,10 @@
       "path": "my-diary/Diary-2026/41_第42周（2026.10.12-2026.10.18）.md",
       "title": "第42周（2026.10.12-2026.10.18）",
       "label": "my-diary/Diary-2026",
-      "word_count": 270,
+      "word_count": 431,
       "image_count": 0,
-      "file_size": 1413,
-      "sha256_short": "f143f47a9223a6b3"
+      "file_size": 2187,
+      "sha256_short": "711710e64ded6dc1"
     },
     {
       "path": "my-diary/Diary-2022/00_index.md",
