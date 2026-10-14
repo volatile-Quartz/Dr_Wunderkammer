@@ -551,5 +551,16 @@
         "updated_at": "2026-06-16T09:23:39+00:00"
       }
     ]
+  },
+  "33": {
+    "title": "Bump the github-actions group with 2 updates",
+    "filename": "Bump-the-github-actions-group-with-2-updates",
+    "label": "no-label",
+    "updated": "2026-10-14T18:10:00+00:00",
+    "word_count": 1419,
+    "image_count": 0,
+    "split_dir": "posts/no-label/Bump-the-github-actions-group-with-2-updates",
+    "comment_count": 0,
+    "comments": []
   }
 }
