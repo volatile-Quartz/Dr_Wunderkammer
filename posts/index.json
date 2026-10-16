@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:19:00.752104+00:00",
+  "generated_at": "2026-10-16T07:37:38.210549+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -71,7 +71,7 @@
       "word_count": 912,
       "image_count": 0,
       "file_size": 5943,
-      "sha256_short": "a10d190798b62610"
+      "sha256_short": "88ea07f87daba63e"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -437,10 +437,10 @@
       "path": "my-diary/Diary-2026/41_第42周（2026.10.12-2026.10.18）.md",
       "title": "第42周（2026.10.12-2026.10.18）",
       "label": "my-diary/Diary-2026",
-      "word_count": 431,
+      "word_count": 906,
       "image_count": 0,
-      "file_size": 2187,
-      "sha256_short": "711710e64ded6dc1"
+      "file_size": 4073,
+      "sha256_short": "f38b0b872caa9ef3"
     },
     {
       "path": "my-diary/Diary-2022/00_index.md",
