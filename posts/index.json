@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:27:38.821693+00:00",
+  "generated_at": "2026-10-25T13:16:25.396595+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -68,10 +68,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 912,
+      "word_count": 946,
       "image_count": 0,
-      "file_size": 5943,
-      "sha256_short": "88ea07f87daba63e"
+      "file_size": 6171,
+      "sha256_short": "4dd337ae69677b9e"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -430,17 +430,35 @@
       "label": "my-diary/Diary-2026",
       "word_count": 1819,
       "image_count": 18,
-      "file_size": 9712,
-      "sha256_short": "66e842bb8c6ffc6a"
+      "file_size": 9709,
+      "sha256_short": "7e8cee26ec986107"
     },
     {
       "path": "my-diary/Diary-2026/41_第42周（2026.10.12-2026.10.18）.md",
       "title": "第42周（2026.10.12-2026.10.18）",
       "label": "my-diary/Diary-2026",
-      "word_count": 906,
+      "word_count": 1233,
       "image_count": 0,
-      "file_size": 4073,
-      "sha256_short": "f38b0b872caa9ef3"
+      "file_size": 5694,
+      "sha256_short": "c4083341d3b66af2"
+    },
+    {
+      "path": "my-diary/Diary-2026/42_第43周（2026.10.19-2026.10.25）.md",
+      "title": "第43周（2026.10.19-2026.10.25）",
+      "label": "my-diary/Diary-2026",
+      "word_count": 697,
+      "image_count": 0,
+      "file_size": 3340,
+      "sha256_short": "e4e0519fc4a75147"
+    },
+    {
+      "path": "my-diary/Diary-2026/43_第44周（2026.10.26-2026.11.01）.md",
+      "title": "第44周（2026.10.26-2026.11.01）",
+      "label": "my-diary/Diary-2026",
+      "word_count": 29,
+      "image_count": 0,
+      "file_size": 117,
+      "sha256_short": "25686ec3bf0ad19f"
     },
     {
       "path": "my-diary/Diary-2022/00_index.md",
@@ -1136,5 +1154,5 @@
       "sha256_short": "55b9ef7edf2ada03"
     }
   ],
-  "total_files": 126
+  "total_files": 128
 }
