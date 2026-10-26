@@ -23,6 +23,8 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 
 import logging
 
+from urllib.parse import quote
+
 from scripts.utils import (
     logger, login, get_repo, get_me, is_me, format_time,
     get_content_word_count, get_content_image_count,
@@ -129,6 +131,16 @@ def clean_legacy_dirs(issue, base_dir):
             logger.info(f"清理旧标题遗留目录: {candidate}")
 
 
+def make_viewer_url(issue, label_dir, fname):
+    """生成拆分文件的 viewer 预览链接（viewer.html?src=<raw 文件 URL>）"""
+    repo = issue.repository
+    raw_url = (f"https://raw.githubusercontent.com/{repo.full_name}/"
+               f"{repo.default_branch or 'master'}/"
+               f"{POSTS_DIR}/{label_dir}/{slugify_folder(issue.title)}/{fname}")
+    pages = f"https://{repo.owner.login.lower()}.github.io/{repo.name}/viewer.html"
+    return f"{pages}?src={quote(raw_url, safe='')}"
+
+
 def split_issue(issue, me, base_dir):
     """拆分单个 issue：建目录、每评论一个 md、生成 index.md、写 metadata"""
     label_dir = get_label_dir(issue)
@@ -175,7 +187,7 @@ def split_issue(issue, me, base_dir):
         f.write("| 标题 | 字数 | 图片 | 更新时间 |\n")
         f.write("| :--: | :-: | :--: | :--: |\n")
         for title, fname, wc, ic, up in stats:
-            f.write(f"| [{title}]({fname}) | {wc} | {ic} | {up} |\n")
+            f.write(f"| [{title}]({make_viewer_url(issue, label_dir, fname)}) | {wc} | {ic} | {up} |\n")
         f.write("\n> 口径：字数=去 Markdown 后中文+英文+数字总数，图片=Markdown 图片数。重跑脚本即全量刷新。\n")
 
     # 评论明细（含时间戳，供 README 按篇统计新增/更新）
