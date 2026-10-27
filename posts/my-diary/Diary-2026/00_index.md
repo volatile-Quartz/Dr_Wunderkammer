@@ -1,6 +1,6 @@
 # 「Diary」2026
 
-> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 43 | 生成于 2026-10-27 00:29
+> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 43 | 生成于 2026-10-27 09:27
 
 | 标题 | 字数 | 图片 | 更新时间 |
 | :--: | :-: | :--: | :--: |
@@ -44,7 +44,7 @@
 | [第39周（2026.09.21-2026.09.27）托尔德西里亚斯条约与萨拉戈萨条约](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F38_%E7%AC%AC39%E5%91%A8%EF%BC%882026.09.21-2026.09.27%EF%BC%89%E6%89%98%E5%B0%94%E5%BE%B7%E8%A5%BF%E9%87%8C%E4%BA%9A%E6%96%AF%E6%9D%A1%E7%BA%A6%E4%B8%8E%E8%90%A8%E6%8B%89%E6%88%88%E8%90%A8%E6%9D%A1%E7%BA%A6.md) | 3928 | 0 | 2026-10-26 23:18 |
 | [第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F39_%E7%AC%AC40%E5%91%A8%EF%BC%882026.09.28-2026.10.04%EF%BC%89%E5%B8%83%E9%9B%B7%E9%A1%BF%E6%A3%AE%E6%9E%97%E4%BD%93%E7%B3%BB%E4%B8%8E%E7%89%B9%E9%87%8C%E8%8A%AC%E6%82%96%E8%AE%BA.md) | 6041 | 0 | 2026-10-26 23:37 |
 | [第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒定律](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F40_%E7%AC%AC41%E5%91%A8%EF%BC%882026.10.05-2026.10.11%EF%BC%89%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94%E4%B8%8E%E6%96%BD%E8%92%82%E6%A0%BC%E5%8B%92%E5%AE%9A%E5%BE%8B.md) | 1853 | 18 | 2026-10-26 23:46 |
-| [第42周（2026.10.12-2026.10.18）臨兵鬥者皆陣列在前](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F41_%E7%AC%AC42%E5%91%A8%EF%BC%882026.10.12-2026.10.18%EF%BC%89%E8%87%A8%E5%85%B5%E9%AC%A5%E8%80%85%E7%9A%86%E9%99%A3%E5%88%97%E5%9C%A8%E5%89%8D.md) | 1317 | 0 | 2026-10-27 00:29 |
+| [第42周（2026.10.12-2026.10.18）臨兵鬥者皆陣列在前](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F41_%E7%AC%AC42%E5%91%A8%EF%BC%882026.10.12-2026.10.18%EF%BC%89%E8%87%A8%E5%85%B5%E9%AC%A5%E8%80%85%E7%9A%86%E9%99%A3%E5%88%97%E5%9C%A8%E5%89%8D.md) | 1317 | 1 | 2026-10-27 09:26 |
 | [第43周（2026.10.19-2026.10.25）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F42_%E7%AC%AC43%E5%91%A8%EF%BC%882026.10.19-2026.10.25%EF%BC%89.md) | 783 | 0 | 2026-10-26 21:58 |
 | [第44周（2026.10.26-2026.11.01）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F43_%E7%AC%AC44%E5%91%A8%EF%BC%882026.10.26-2026.11.01%EF%BC%89.md) | 71 | 0 | 2026-10-26 21:46 |
 
