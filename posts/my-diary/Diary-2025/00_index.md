@@ -1,6 +1,6 @@
 # 「Diary」2025
 
-> 来源：[issue #27](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27) | 评论数 56 | 生成于 2026-10-26 14:47
+> 来源：[issue #27](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27) | 评论数 56 | 生成于 2026-10-27 21:07
 
 | 标题 | 字数 | 图片 | 更新时间 |
 | :--: | :-: | :--: | :--: |
@@ -56,7 +56,7 @@
 | [第50周（2025.12.08-2025.12.14）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2025%2F50_%E7%AC%AC50%E5%91%A8%EF%BC%882025.12.08-2025.12.14%EF%BC%89.md) | 983 | 0 | 2026-09-29 15:34 |
 | [第51周（2025.12.15-2025.12.21）皮亚诺余项与拉格朗日余项、冬至与饺子](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2025%2F51_%E7%AC%AC51%E5%91%A8%EF%BC%882025.12.15-2025.12.21%EF%BC%89%E7%9A%AE%E4%BA%9A%E8%AF%BA%E4%BD%99%E9%A1%B9%E4%B8%8E%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E4%BD%99%E9%A1%B9%E3%80%81%E5%86%AC%E8%87%B3%E4%B8%8E%E9%A5%BA%E5%AD%90.md) | 1207 | 0 | 2026-09-29 15:34 |
 | [第52周（2025.12.22-2025.12.28）位移极化与取向极化](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2025%2F52_%E7%AC%AC52%E5%91%A8%EF%BC%882025.12.22-2025.12.28%EF%BC%89%E4%BD%8D%E7%A7%BB%E6%9E%81%E5%8C%96%E4%B8%8E%E5%8F%96%E5%90%91%E6%9E%81%E5%8C%96.md) | 3390 | 0 | 2026-09-29 15:34 |
-| [附录1：音乐作品汇总](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2025%2F53_%E9%99%84%E5%BD%951%EF%BC%9A%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81%E6%B1%87%E6%80%BB.md) | 4687 | 0 | 2026-09-18 18:00 |
+| [附录1：音乐收听档案](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2025%2F53_%E9%99%84%E5%BD%951%EF%BC%9A%E9%9F%B3%E4%B9%90%E6%94%B6%E5%90%AC%E6%A1%A3%E6%A1%88.md) | 5167 | 0 | 2026-10-27 21:07 |
 | [附录2：影视作品汇总](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2025%2F54_%E9%99%84%E5%BD%952%EF%BC%9A%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E6%B1%87%E6%80%BB.md) | 2062 | 0 | 2026-09-12 16:39 |
 | [附录3：魔法卡片已集齐卡片一览（131 + 217 套）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2025%2F55_%E9%99%84%E5%BD%953%EF%BC%9A%E9%AD%94%E6%B3%95%E5%8D%A1%E7%89%87%E5%B7%B2%E9%9B%86%E9%BD%90%E5%8D%A1%E7%89%87%E4%B8%80%E8%A7%88%EF%BC%88131%20%2B%20217%20%E5%A5%97%EF%BC%89.md) | 25358 | 0 | 2026-09-29 15:40 |
 | [附录4：草稿纸·No.7135 - No.8542](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2025%2F56_%E9%99%84%E5%BD%954%EF%BC%9A%E8%8D%89%E7%A8%BF%E7%BA%B8%C2%B7No.7135%20-%20No.8542.md) | 315 | 0 | 2026-09-29 17:31 |
