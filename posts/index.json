@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:07:36.008805+00:00",
+  "generated_at": "2026-10-27T13:30:05.545138+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -71,7 +71,7 @@
       "word_count": 966,
       "image_count": 0,
       "file_size": 16286,
-      "sha256_short": "99e9118acc172fc1"
+      "sha256_short": "21e7e1afb7f2473b"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -140,10 +140,10 @@
       "path": "my-diary/Diary-2026/08_第8周（2026.02.16-2026.02.22）广仁寺、洒金桥.md",
       "title": "第8周（2026.02.16-2026.02.22）广仁寺、洒金桥",
       "label": "my-diary/Diary-2026",
-      "word_count": 2422,
+      "word_count": 2398,
       "image_count": 0,
-      "file_size": 8327,
-      "sha256_short": "02a4b23b75180f2d"
+      "file_size": 8230,
+      "sha256_short": "6cf2430bc420281d"
     },
     {
       "path": "my-diary/Diary-2026/09_第9周（2026.02.23-2026.03.01）银行家舍入法.md",

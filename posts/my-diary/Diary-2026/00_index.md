@@ -1,6 +1,6 @@
 # 「Diary」2026
 
-> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 43 | 生成于 2026-10-27 09:27
+> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 43 | 生成于 2026-10-27 21:29
 
 | 标题 | 字数 | 图片 | 更新时间 |
 | :--: | :-: | :--: | :--: |
@@ -11,7 +11,7 @@
 | [第5周（2026.01.26-2026.02.01）真空电容率与真空磁导率](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F05_%E7%AC%AC5%E5%91%A8%EF%BC%882026.01.26-2026.02.01%EF%BC%89%E7%9C%9F%E7%A9%BA%E7%94%B5%E5%AE%B9%E7%8E%87%E4%B8%8E%E7%9C%9F%E7%A9%BA%E7%A3%81%E5%AF%BC%E7%8E%87.md) | 1977 | 0 | 2026-09-09 17:01 |
 | [第6周（2026.02.02-2026.02.08）萨丕尔-沃尔夫假说](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F06_%E7%AC%AC6%E5%91%A8%EF%BC%882026.02.02-2026.02.08%EF%BC%89%E8%90%A8%E4%B8%95%E5%B0%94-%E6%B2%83%E5%B0%94%E5%A4%AB%E5%81%87%E8%AF%B4.md) | 2083 | 0 | 2026-09-09 17:17 |
 | [第7周（2026.02.09-2026.02.15）圣瓦伦丁日](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F07_%E7%AC%AC7%E5%91%A8%EF%BC%882026.02.09-2026.02.15%EF%BC%89%E5%9C%A3%E7%93%A6%E4%BC%A6%E4%B8%81%E6%97%A5.md) | 1592 | 0 | 2026-09-09 18:04 |
-| [第8周（2026.02.16-2026.02.22）广仁寺、洒金桥](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F08_%E7%AC%AC8%E5%91%A8%EF%BC%882026.02.16-2026.02.22%EF%BC%89%E5%B9%BF%E4%BB%81%E5%AF%BA%E3%80%81%E6%B4%92%E9%87%91%E6%A1%A5.md) | 2422 | 0 | 2026-09-10 10:34 |
+| [第8周（2026.02.16-2026.02.22）广仁寺、洒金桥](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F08_%E7%AC%AC8%E5%91%A8%EF%BC%882026.02.16-2026.02.22%EF%BC%89%E5%B9%BF%E4%BB%81%E5%AF%BA%E3%80%81%E6%B4%92%E9%87%91%E6%A1%A5.md) | 2398 | 0 | 2026-10-27 21:29 |
 | [第9周（2026.02.23-2026.03.01）银行家舍入法](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F09_%E7%AC%AC9%E5%91%A8%EF%BC%882026.02.23-2026.03.01%EF%BC%89%E9%93%B6%E8%A1%8C%E5%AE%B6%E8%88%8D%E5%85%A5%E6%B3%95.md) | 1218 | 0 | 2026-09-10 11:09 |
 | [第10周（2026.03.02-2026.03.08）元宵与汤圆](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F10_%E7%AC%AC10%E5%91%A8%EF%BC%882026.03.02-2026.03.08%EF%BC%89%E5%85%83%E5%AE%B5%E4%B8%8E%E6%B1%A4%E5%9C%86.md) | 603 | 0 | 2026-09-10 09:04 |
 | [第11周（2026.03.09-2026.03.15）统计判别法](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F11_%E7%AC%AC11%E5%91%A8%EF%BC%882026.03.09-2026.03.15%EF%BC%89%E7%BB%9F%E8%AE%A1%E5%88%A4%E5%88%AB%E6%B3%95.md) | 1362 | 0 | 2026-09-09 22:07 |
