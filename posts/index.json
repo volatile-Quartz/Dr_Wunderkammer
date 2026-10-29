@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:34:28.362834+00:00",
+  "generated_at": "2026-10-29T09:23:01.681194+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -41,10 +41,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 966,
+      "word_count": 971,
       "image_count": 0,
-      "file_size": 16286,
-      "sha256_short": "21e7e1afb7f2473b"
+      "file_size": 16346,
+      "sha256_short": "ef44285f11aa9660"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -353,13 +353,13 @@
       "sha256_short": "d9ffadc22e45e5f1"
     },
     {
-      "path": "my-diary/Diary-2026/35_第36周（2026.08.31-2026.09.06）标准代号.md",
-      "title": "第36周（2026.08.31-2026.09.06）标准代号",
+      "path": "my-diary/Diary-2026/35_第36周（2026.08.31-2026.09.06）标准分级与采标规则.md",
+      "title": "第36周（2026.08.31-2026.09.06）标准分级与采标规则",
       "label": "my-diary/Diary-2026",
-      "word_count": 4867,
+      "word_count": 4872,
       "image_count": 0,
-      "file_size": 20749,
-      "sha256_short": "3e8a55c25339b0d3"
+      "file_size": 20764,
+      "sha256_short": "be7336b758c1fba3"
     },
     {
       "path": "my-diary/Diary-2026/36_第37周（2026.09.07-2026.09.13）.md",
