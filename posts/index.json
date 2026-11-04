@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:30:17.095372+00:00",
+  "generated_at": "2026-11-04T06:34:06.822465+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -43,8 +43,8 @@
       "label": "my-diary/Diary-2026",
       "word_count": 988,
       "image_count": 0,
-      "file_size": 16669,
-      "sha256_short": "0b138401490121f9"
+      "file_size": 16670,
+      "sha256_short": "e9e35d9547e15b46"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -428,19 +428,19 @@
       "path": "my-diary/Diary-2026/43_第44周（2026.10.26-2026.11.01）.md",
       "title": "第44周（2026.10.26-2026.11.01）",
       "label": "my-diary/Diary-2026",
-      "word_count": 400,
+      "word_count": 524,
       "image_count": 0,
-      "file_size": 1867,
-      "sha256_short": "4558e3d7f597622f"
+      "file_size": 2444,
+      "sha256_short": "d5409e9753efc41c"
     },
     {
       "path": "my-diary/Diary-2026/44_第45周（2026.11.02-2026.11.08）.md",
       "title": "第45周（2026.11.02-2026.11.08）",
       "label": "my-diary/Diary-2026",
-      "word_count": 20,
+      "word_count": 286,
       "image_count": 0,
-      "file_size": 83,
-      "sha256_short": "35ab851a74d2465d"
+      "file_size": 1328,
+      "sha256_short": "37cc9cd8cebabe21"
     },
     {
       "path": "my-diary/Diary-2006-2007/00_index.md",

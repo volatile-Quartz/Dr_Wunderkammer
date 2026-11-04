@@ -1,6 +1,6 @@
 # 「Diary」2026
 
-> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 44 | 生成于 2026-11-03 13:28
+> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 44 | 生成于 2026-11-04 14:33
 
 | 标题 | 字数 | 图片 | 更新时间 |
 | :--: | :-: | :--: | :--: |
@@ -46,7 +46,7 @@
 | [第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒定律](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F40_%E7%AC%AC41%E5%91%A8%EF%BC%882026.10.05-2026.10.11%EF%BC%89%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94%E4%B8%8E%E6%96%BD%E8%92%82%E6%A0%BC%E5%8B%92%E5%AE%9A%E5%BE%8B.md) | 1853 | 18 | 2026-10-26 23:46 |
 | [第42周（2026.10.12-2026.10.18）臨兵鬥者皆陣列在前](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F41_%E7%AC%AC42%E5%91%A8%EF%BC%882026.10.12-2026.10.18%EF%BC%89%E8%87%A8%E5%85%B5%E9%AC%A5%E8%80%85%E7%9A%86%E9%99%A3%E5%88%97%E5%9C%A8%E5%89%8D.md) | 1317 | 1 | 2026-10-27 09:26 |
 | [第43周（2026.10.19-2026.10.25）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F42_%E7%AC%AC43%E5%91%A8%EF%BC%882026.10.19-2026.10.25%EF%BC%89.md) | 783 | 0 | 2026-10-26 21:58 |
-| [第44周（2026.10.26-2026.11.01）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F43_%E7%AC%AC44%E5%91%A8%EF%BC%882026.10.26-2026.11.01%EF%BC%89.md) | 400 | 0 | 2026-11-03 13:28 |
-| [第45周（2026.11.02-2026.11.08）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F44_%E7%AC%AC45%E5%91%A8%EF%BC%882026.11.02-2026.11.08%EF%BC%89.md) | 20 | 0 | 2026-11-03 12:51 |
+| [第44周（2026.10.26-2026.11.01）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F43_%E7%AC%AC44%E5%91%A8%EF%BC%882026.10.26-2026.11.01%EF%BC%89.md) | 524 | 0 | 2026-11-04 14:32 |
+| [第45周（2026.11.02-2026.11.08）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F44_%E7%AC%AC45%E5%91%A8%EF%BC%882026.11.02-2026.11.08%EF%BC%89.md) | 286 | 0 | 2026-11-04 14:33 |
 
 > 口径：字数=去 Markdown 后中文+英文+数字总数，图片=Markdown 图片数。重跑脚本即全量刷新。
