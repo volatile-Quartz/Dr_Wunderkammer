@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:23:46.472491+00:00",
+  "generated_at": "2026-11-05T05:36:36.488773+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -89,16 +89,16 @@
       "word_count": 988,
       "image_count": 0,
       "file_size": 16670,
-      "sha256_short": "f56f51e5524f4c2f"
+      "sha256_short": "e52556bfdb6d7c2f"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵.md",
       "title": "第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵",
       "label": "my-diary/Diary-2026",
-      "word_count": 2022,
+      "word_count": 2017,
       "image_count": 0,
-      "file_size": 6457,
-      "sha256_short": "1bb0c06e58a1416b"
+      "file_size": 6442,
+      "sha256_short": "b9234b27d4a48f0a"
     },
     {
       "path": "my-diary/Diary-2026/02_第2周（2026.01.05-2026.01.11）胡焕庸线.md",
