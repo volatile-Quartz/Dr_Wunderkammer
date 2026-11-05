@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:51:30.336543+00:00",
+  "generated_at": "2026-11-05T05:18:56.135669+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -734,19 +734,19 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 990,
+      "word_count": 988,
       "image_count": 0,
-      "file_size": 16694,
-      "sha256_short": "a3c718cf2b9962a9"
+      "file_size": 16670,
+      "sha256_short": "04aa3ba679d9e8dc"
     },
     {
-      "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵体系.md",
-      "title": "第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵体系",
+      "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵.md",
+      "title": "第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵",
       "label": "my-diary/Diary-2026",
-      "word_count": 2024,
+      "word_count": 2022,
       "image_count": 0,
-      "file_size": 6463,
-      "sha256_short": "d8f3d23901ef57be"
+      "file_size": 6457,
+      "sha256_short": "1bb0c06e58a1416b"
     },
     {
       "path": "my-diary/Diary-2026/02_第2周（2026.01.05-2026.01.11）胡焕庸线.md",
