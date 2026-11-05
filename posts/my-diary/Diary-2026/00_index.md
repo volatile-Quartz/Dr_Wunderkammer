@@ -1,10 +1,10 @@
 # 「Diary」2026
 
-> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 44 | 生成于 2026-11-05 12:45
+> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 44 | 生成于 2026-11-05 12:51
 
 | 标题 | 字数 | 图片 | 更新时间 |
 | :--: | :-: | :--: | :--: |
-| [第1周（2025.12.29-2026.01.04）元旦、帕拉塞尔苏斯元素精灵论](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F01_%E7%AC%AC1%E5%91%A8%EF%BC%882025.12.29-2026.01.04%EF%BC%89%E5%85%83%E6%97%A6%E3%80%81%E5%B8%95%E6%8B%89%E5%A1%9E%E5%B0%94%E8%8B%8F%E6%96%AF%E5%85%83%E7%B4%A0%E7%B2%BE%E7%81%B5%E8%AE%BA.md) | 2025 | 0 | 2026-11-05 12:45 |
+| [第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵体系](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F01_%E7%AC%AC1%E5%91%A8%EF%BC%882025.12.29-2026.01.04%EF%BC%89%E5%85%83%E6%97%A6%E3%80%81%E5%9B%9B%E6%A0%B9%E8%AF%B4%E4%B8%8E%E5%85%83%E7%B4%A0%E7%B2%BE%E7%81%B5%E4%BD%93%E7%B3%BB.md) | 2024 | 0 | 2026-11-05 12:51 |
 | [第2周（2026.01.05-2026.01.11）胡焕庸线](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F02_%E7%AC%AC2%E5%91%A8%EF%BC%882026.01.05-2026.01.11%EF%BC%89%E8%83%A1%E7%84%95%E5%BA%B8%E7%BA%BF.md) | 3137 | 0 | 2026-09-09 16:37 |
 | [第3周（2026.01.12-2026.01.18）冷读法与巴纳姆效应](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F03_%E7%AC%AC3%E5%91%A8%EF%BC%882026.01.12-2026.01.18%EF%BC%89%E5%86%B7%E8%AF%BB%E6%B3%95%E4%B8%8E%E5%B7%B4%E7%BA%B3%E5%A7%86%E6%95%88%E5%BA%94.md) | 2820 | 2 | 2026-11-05 11:27 |
 | [第4周（2026.01.19-2026.01.25）竹取物语与辉夜姬](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F04_%E7%AC%AC4%E5%91%A8%EF%BC%882026.01.19-2026.01.25%EF%BC%89%E7%AB%B9%E5%8F%96%E7%89%A9%E8%AF%AD%E4%B8%8E%E8%BE%89%E5%A4%9C%E5%A7%AC.md) | 2161 | 0 | 2026-08-11 16:05 |
