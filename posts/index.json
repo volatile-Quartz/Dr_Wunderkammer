@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:36:02.202483+00:00",
+  "generated_at": "2026-11-06T09:33:31.702755+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -734,10 +734,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 988,
+      "word_count": 1004,
       "image_count": 0,
-      "file_size": 16670,
-      "sha256_short": "c1affe59f512da99"
+      "file_size": 16865,
+      "sha256_short": "2432ccb19a2e5322"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵.md",
@@ -1094,46 +1094,46 @@
       "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒定律.md",
       "title": "第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒定律",
       "label": "my-diary/Diary-2026",
-      "word_count": 1853,
+      "word_count": 1879,
       "image_count": 18,
-      "file_size": 9808,
-      "sha256_short": "6a0c07f798c3748d"
+      "file_size": 9888,
+      "sha256_short": "d81be55e903aed16"
     },
     {
       "path": "my-diary/Diary-2026/41_第42周（2026.10.12-2026.10.18）臨兵鬥者皆陣列在前.md",
       "title": "第42周（2026.10.12-2026.10.18）臨兵鬥者皆陣列在前",
       "label": "my-diary/Diary-2026",
-      "word_count": 1317,
+      "word_count": 1371,
       "image_count": 1,
-      "file_size": 6082,
-      "sha256_short": "20d23b3434eb76c2"
+      "file_size": 6250,
+      "sha256_short": "a0f507ab50a95bc8"
     },
     {
-      "path": "my-diary/Diary-2026/42_第43周（2026.10.19-2026.10.25）.md",
-      "title": "第43周（2026.10.19-2026.10.25）",
+      "path": "my-diary/Diary-2026/42_第43周（2026.10.19-2026.10.25）贝克尔犯罪经济学模型.md",
+      "title": "第43周（2026.10.19-2026.10.25）贝克尔犯罪经济学模型",
       "label": "my-diary/Diary-2026",
-      "word_count": 783,
+      "word_count": 1104,
       "image_count": 0,
-      "file_size": 3699,
-      "sha256_short": "53c77a9b95b40a80"
+      "file_size": 5070,
+      "sha256_short": "83e3273fcc2a6e54"
     },
     {
-      "path": "my-diary/Diary-2026/43_第44周（2026.10.26-2026.11.01）.md",
-      "title": "第44周（2026.10.26-2026.11.01）",
+      "path": "my-diary/Diary-2026/43_第44周（2026.10.26-2026.11.01）海弗利克极限.md",
+      "title": "第44周（2026.10.26-2026.11.01）海弗利克极限",
       "label": "my-diary/Diary-2026",
-      "word_count": 524,
+      "word_count": 1959,
       "image_count": 0,
-      "file_size": 2444,
-      "sha256_short": "d5409e9753efc41c"
+      "file_size": 7376,
+      "sha256_short": "98b06bdef0c2e286"
     },
     {
       "path": "my-diary/Diary-2026/44_第45周（2026.11.02-2026.11.08）.md",
       "title": "第45周（2026.11.02-2026.11.08）",
       "label": "my-diary/Diary-2026",
-      "word_count": 424,
+      "word_count": 1267,
       "image_count": 0,
-      "file_size": 1890,
-      "sha256_short": "07387ec97a1667f4"
+      "file_size": 4889,
+      "sha256_short": "d06dbb616ac457c7"
     },
     {
       "path": "the-lore/About-Calculations/00_index.md",
