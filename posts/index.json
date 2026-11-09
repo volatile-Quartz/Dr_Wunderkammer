@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:50:01.528889+00:00",
+  "generated_at": "2026-11-09T09:31:27.573501+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -734,10 +734,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 1004,
+      "word_count": 1025,
       "image_count": 0,
-      "file_size": 16865,
-      "sha256_short": "2432ccb19a2e5322"
+      "file_size": 17235,
+      "sha256_short": "e58516bcb36e2d04"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵.md",
@@ -1109,31 +1109,40 @@
       "sha256_short": "a0f507ab50a95bc8"
     },
     {
-      "path": "my-diary/Diary-2026/42_第43周（2026.10.19-2026.10.25）贝克尔犯罪经济学模型.md",
-      "title": "第43周（2026.10.19-2026.10.25）贝克尔犯罪经济学模型",
+      "path": "my-diary/Diary-2026/42_第43周（2026.10.19-2026.10.25）长尾理论与贝克尔理性选择理论.md",
+      "title": "第43周（2026.10.19-2026.10.25）长尾理论与贝克尔理性选择理论",
       "label": "my-diary/Diary-2026",
-      "word_count": 1104,
+      "word_count": 1558,
       "image_count": 0,
-      "file_size": 5070,
-      "sha256_short": "83e3273fcc2a6e54"
+      "file_size": 6519,
+      "sha256_short": "b6fbac5938b86afd"
     },
     {
       "path": "my-diary/Diary-2026/43_第44周（2026.10.26-2026.11.01）海弗利克极限.md",
       "title": "第44周（2026.10.26-2026.11.01）海弗利克极限",
       "label": "my-diary/Diary-2026",
-      "word_count": 1959,
+      "word_count": 1945,
       "image_count": 0,
-      "file_size": 7376,
-      "sha256_short": "98b06bdef0c2e286"
+      "file_size": 7339,
+      "sha256_short": "16defe4556f62050"
     },
     {
       "path": "my-diary/Diary-2026/44_第45周（2026.11.02-2026.11.08）.md",
       "title": "第45周（2026.11.02-2026.11.08）",
       "label": "my-diary/Diary-2026",
-      "word_count": 1267,
+      "word_count": 2090,
       "image_count": 0,
-      "file_size": 4889,
-      "sha256_short": "d06dbb616ac457c7"
+      "file_size": 8093,
+      "sha256_short": "ac2a82fa61d005ce"
+    },
+    {
+      "path": "my-diary/Diary-2026/45_第46周（2026.11.09-2026.11.15）.md",
+      "title": "第46周（2026.11.09-2026.11.15）",
+      "label": "my-diary/Diary-2026",
+      "word_count": 18,
+      "image_count": 0,
+      "file_size": 86,
+      "sha256_short": "3facc13cac84761d"
     },
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -1163,5 +1172,5 @@
       "sha256_short": "250f61b5bd100396"
     }
   ],
-  "total_files": 129
+  "total_files": 130
 }
