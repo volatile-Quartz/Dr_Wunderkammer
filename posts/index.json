@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:31:27.573501+00:00",
+  "generated_at": "2026-11-10T02:03:37.346452+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -734,10 +734,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 1025,
+      "word_count": 1032,
       "image_count": 0,
-      "file_size": 17235,
-      "sha256_short": "e58516bcb36e2d04"
+      "file_size": 17319,
+      "sha256_short": "a8765606fd607967"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵.md",
@@ -1091,13 +1091,13 @@
       "sha256_short": "b2431626ed2b25b7"
     },
     {
-      "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒定律.md",
-      "title": "第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒定律",
+      "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒命名法则、数学摇滚.md",
+      "title": "第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒命名法则、数学摇滚",
       "label": "my-diary/Diary-2026",
-      "word_count": 1879,
+      "word_count": 2496,
       "image_count": 18,
-      "file_size": 9888,
-      "sha256_short": "d81be55e903aed16"
+      "file_size": 11864,
+      "sha256_short": "4631b96c1f95ecb3"
     },
     {
       "path": "my-diary/Diary-2026/41_第42周（2026.10.12-2026.10.18）臨兵鬥者皆陣列在前.md",
