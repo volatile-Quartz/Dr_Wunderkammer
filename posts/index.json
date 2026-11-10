@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:31:27.573501+00:00",
+  "generated_at": "2026-11-10T20:49:36.654244+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -734,181 +734,181 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 1025,
+      "word_count": 1035,
       "image_count": 0,
-      "file_size": 17235,
-      "sha256_short": "e58516bcb36e2d04"
+      "file_size": 17358,
+      "sha256_short": "2c355848a5cbebfe"
     },
     {
-      "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵.md",
-      "title": "第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵",
+      "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦；四根说与元素精灵.md",
+      "title": "第1周（2025.12.29-2026.01.04）元旦；四根说与元素精灵",
       "label": "my-diary/Diary-2026",
-      "word_count": 2017,
+      "word_count": 2848,
       "image_count": 0,
-      "file_size": 6442,
-      "sha256_short": "b9234b27d4a48f0a"
+      "file_size": 10478,
+      "sha256_short": "a2ba3751231f6ca6"
     },
     {
       "path": "my-diary/Diary-2026/02_第2周（2026.01.05-2026.01.11）胡焕庸线.md",
       "title": "第2周（2026.01.05-2026.01.11）胡焕庸线",
       "label": "my-diary/Diary-2026",
-      "word_count": 3104,
+      "word_count": 3865,
       "image_count": 0,
-      "file_size": 9831,
-      "sha256_short": "d8450fe75a5b1b36"
+      "file_size": 13422,
+      "sha256_short": "dd4f06fb02df7b68"
     },
     {
       "path": "my-diary/Diary-2026/03_第3周（2026.01.12-2026.01.18）冷读法与巴纳姆效应.md",
       "title": "第3周（2026.01.12-2026.01.18）冷读法与巴纳姆效应",
       "label": "my-diary/Diary-2026",
-      "word_count": 2820,
+      "word_count": 2811,
       "image_count": 2,
-      "file_size": 10108,
-      "sha256_short": "47cfa63f01a6f274"
+      "file_size": 10950,
+      "sha256_short": "2540b396d0cdd730"
     },
     {
       "path": "my-diary/Diary-2026/04_第4周（2026.01.19-2026.01.25）竹取物语与辉夜姬.md",
       "title": "第4周（2026.01.19-2026.01.25）竹取物语与辉夜姬",
       "label": "my-diary/Diary-2026",
-      "word_count": 2161,
+      "word_count": 2111,
       "image_count": 0,
-      "file_size": 7384,
-      "sha256_short": "c8656d5a1f3e093f"
+      "file_size": 8440,
+      "sha256_short": "dac441c00756d4e4"
     },
     {
       "path": "my-diary/Diary-2026/05_第5周（2026.01.26-2026.02.01）真空电容率与真空磁导率.md",
       "title": "第5周（2026.01.26-2026.02.01）真空电容率与真空磁导率",
       "label": "my-diary/Diary-2026",
-      "word_count": 1977,
+      "word_count": 1969,
       "image_count": 0,
-      "file_size": 6481,
-      "sha256_short": "c876aa43c5212571"
+      "file_size": 7383,
+      "sha256_short": "64159eba91736766"
     },
     {
       "path": "my-diary/Diary-2026/06_第6周（2026.02.02-2026.02.08）萨丕尔-沃尔夫假说.md",
       "title": "第6周（2026.02.02-2026.02.08）萨丕尔-沃尔夫假说",
       "label": "my-diary/Diary-2026",
-      "word_count": 2083,
+      "word_count": 2036,
       "image_count": 0,
-      "file_size": 7057,
-      "sha256_short": "460732722c966939"
+      "file_size": 8066,
+      "sha256_short": "459647e3a9014c32"
     },
     {
       "path": "my-diary/Diary-2026/07_第7周（2026.02.09-2026.02.15）圣瓦伦丁日.md",
       "title": "第7周（2026.02.09-2026.02.15）圣瓦伦丁日",
       "label": "my-diary/Diary-2026",
-      "word_count": 1592,
+      "word_count": 1535,
       "image_count": 0,
-      "file_size": 5260,
-      "sha256_short": "28bd05aafb9f40b0"
+      "file_size": 5493,
+      "sha256_short": "b0a8c13f7d6b8e98"
     },
     {
-      "path": "my-diary/Diary-2026/08_第8周（2026.02.16-2026.02.22）广仁寺、洒金桥.md",
-      "title": "第8周（2026.02.16-2026.02.22）广仁寺、洒金桥",
+      "path": "my-diary/Diary-2026/08_第8周（2026.02.16-2026.02.22）广仁寺；洒金桥.md",
+      "title": "第8周（2026.02.16-2026.02.22）广仁寺；洒金桥",
       "label": "my-diary/Diary-2026",
-      "word_count": 2398,
+      "word_count": 2359,
       "image_count": 0,
-      "file_size": 8230,
-      "sha256_short": "6cf2430bc420281d"
+      "file_size": 9455,
+      "sha256_short": "1084d8caa1b481e5"
     },
     {
       "path": "my-diary/Diary-2026/09_第9周（2026.02.23-2026.03.01）银行家舍入法.md",
       "title": "第9周（2026.02.23-2026.03.01）银行家舍入法",
       "label": "my-diary/Diary-2026",
-      "word_count": 1218,
+      "word_count": 1183,
       "image_count": 0,
-      "file_size": 4026,
-      "sha256_short": "d8951e94fa12d5ce"
+      "file_size": 4627,
+      "sha256_short": "1d2edf82d130eb1c"
     },
     {
       "path": "my-diary/Diary-2026/10_第10周（2026.03.02-2026.03.08）元宵与汤圆.md",
       "title": "第10周（2026.03.02-2026.03.08）元宵与汤圆",
       "label": "my-diary/Diary-2026",
-      "word_count": 603,
+      "word_count": 950,
       "image_count": 0,
-      "file_size": 1875,
-      "sha256_short": "7f629218fb794d31"
+      "file_size": 3474,
+      "sha256_short": "b392e62c6b78209b"
     },
     {
-      "path": "my-diary/Diary-2026/11_第11周（2026.03.09-2026.03.15）统计判别法.md",
-      "title": "第11周（2026.03.09-2026.03.15）统计判别法",
+      "path": "my-diary/Diary-2026/11_第11周（2026.03.09-2026.03.15）酸枣；统计判别法.md",
+      "title": "第11周（2026.03.09-2026.03.15）酸枣；统计判别法",
       "label": "my-diary/Diary-2026",
-      "word_count": 1362,
+      "word_count": 1845,
       "image_count": 0,
-      "file_size": 4286,
-      "sha256_short": "3929113befbebf9e"
+      "file_size": 6593,
+      "sha256_short": "fc20d2e6d43a3b73"
     },
     {
       "path": "my-diary/Diary-2026/12_第12周（2026.03.16-2026.03.22）正则表达式.md",
       "title": "第12周（2026.03.16-2026.03.22）正则表达式",
       "label": "my-diary/Diary-2026",
-      "word_count": 694,
+      "word_count": 6389,
       "image_count": 0,
-      "file_size": 2159,
-      "sha256_short": "7d5f19e4773deadc"
+      "file_size": 27676,
+      "sha256_short": "7e4e5e0c9392c398"
     },
     {
       "path": "my-diary/Diary-2026/13_第13周（2026.03.23-2026.03.29）重复性与复现性.md",
       "title": "第13周（2026.03.23-2026.03.29）重复性与复现性",
       "label": "my-diary/Diary-2026",
-      "word_count": 9909,
+      "word_count": 2967,
       "image_count": 0,
-      "file_size": 31678,
-      "sha256_short": "ad3cae1f3b47379a"
+      "file_size": 12487,
+      "sha256_short": "54a8557608fb16c3"
     },
     {
       "path": "my-diary/Diary-2026/14_第14周（2026.03.30-2026.04.05）寒食与清明.md",
       "title": "第14周（2026.03.30-2026.04.05）寒食与清明",
       "label": "my-diary/Diary-2026",
-      "word_count": 1411,
+      "word_count": 2985,
       "image_count": 1,
-      "file_size": 8816,
-      "sha256_short": "86114e8ac8a6c424"
+      "file_size": 16356,
+      "sha256_short": "b5983b7ea01beca1"
     },
     {
       "path": "my-diary/Diary-2026/15_第15周（2026.04.06-2026.04.12）UTC.md",
       "title": "第15周（2026.04.06-2026.04.12）UTC",
       "label": "my-diary/Diary-2026",
-      "word_count": 334,
+      "word_count": 1722,
       "image_count": 0,
-      "file_size": 1413,
-      "sha256_short": "d7762cd1a4717318"
+      "file_size": 7795,
+      "sha256_short": "8ad12fa78e6adb66"
     },
     {
       "path": "my-diary/Diary-2026/16_第16周（2026.04.13-2026.04.19）.md",
       "title": "第16周（2026.04.13-2026.04.19）",
       "label": "my-diary/Diary-2026",
-      "word_count": 35,
+      "word_count": 1281,
       "image_count": 0,
-      "file_size": 115,
-      "sha256_short": "57821fa473d2a5e6"
+      "file_size": 5954,
+      "sha256_short": "8d1c50d24dfbfd6f"
     },
     {
       "path": "my-diary/Diary-2026/17_第17周（2026.04.20-2026.04.26）.md",
       "title": "第17周（2026.04.20-2026.04.26）",
       "label": "my-diary/Diary-2026",
-      "word_count": 4666,
+      "word_count": 1236,
       "image_count": 0,
-      "file_size": 15414,
-      "sha256_short": "9faf25ca420e7d1e"
+      "file_size": 5891,
+      "sha256_short": "7c102c8ace9296b9"
     },
     {
       "path": "my-diary/Diary-2026/18_第18周（2026.04.27-2026.05.03）.md",
       "title": "第18周（2026.04.27-2026.05.03）",
       "label": "my-diary/Diary-2026",
-      "word_count": 1122,
+      "word_count": 976,
       "image_count": 0,
-      "file_size": 4400,
-      "sha256_short": "d11a1b8f3911f1b7"
+      "file_size": 5033,
+      "sha256_short": "3bd9d92e2d524bf8"
     },
     {
       "path": "my-diary/Diary-2026/19_第19周（2026.05.04-2026.05.10）.md",
       "title": "第19周（2026.05.04-2026.05.10）",
       "label": "my-diary/Diary-2026",
-      "word_count": 3657,
+      "word_count": 3606,
       "image_count": 0,
-      "file_size": 11970,
-      "sha256_short": "cc9f40468bd33983"
+      "file_size": 12628,
+      "sha256_short": "31fcb13442b03190"
     },
     {
       "path": "my-diary/Diary-2026/20_第20周（2026.05.11-2026.05.17）病毒世界假说.md",
@@ -923,19 +923,19 @@
       "path": "my-diary/Diary-2026/21_第21周（2026.05.18-2026.05.24）.md",
       "title": "第21周（2026.05.18-2026.05.24）",
       "label": "my-diary/Diary-2026",
-      "word_count": 12915,
+      "word_count": 12198,
       "image_count": 0,
-      "file_size": 47362,
-      "sha256_short": "d965bd46526e652c"
+      "file_size": 54699,
+      "sha256_short": "7168f39b0483945e"
     },
     {
       "path": "my-diary/Diary-2026/22_第22周（2026.05.25-2026.05.31）AQI.md",
       "title": "第22周（2026.05.25-2026.05.31）AQI",
       "label": "my-diary/Diary-2026",
-      "word_count": 6525,
+      "word_count": 6285,
       "image_count": 0,
-      "file_size": 23045,
-      "sha256_short": "718c6221b1b64e66"
+      "file_size": 25971,
+      "sha256_short": "ac360bd28cf94a12"
     },
     {
       "path": "my-diary/Diary-2026/23_第23周（2026.06.01-2026.06.07）.md",
@@ -1091,13 +1091,13 @@
       "sha256_short": "b2431626ed2b25b7"
     },
     {
-      "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒定律.md",
-      "title": "第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒定律",
+      "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒命名法则；数学摇滚.md",
+      "title": "第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒命名法则；数学摇滚",
       "label": "my-diary/Diary-2026",
-      "word_count": 1879,
+      "word_count": 2496,
       "image_count": 18,
-      "file_size": 9888,
-      "sha256_short": "d81be55e903aed16"
+      "file_size": 11864,
+      "sha256_short": "08b4751a79b883cf"
     },
     {
       "path": "my-diary/Diary-2026/41_第42周（2026.10.12-2026.10.18）臨兵鬥者皆陣列在前.md",
