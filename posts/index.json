@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:53:05.366543+00:00",
+  "generated_at": "2026-11-10T07:00:27.156829+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -737,7 +737,7 @@
       "word_count": 1032,
       "image_count": 0,
       "file_size": 17319,
-      "sha256_short": "9fab29050fe24b14"
+      "sha256_short": "a7cc36ec6882fd4e"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦；四根说与元素精灵.md",
@@ -770,10 +770,10 @@
       "path": "my-diary/Diary-2026/04_第4周（2026.01.19-2026.01.25）竹取物语与辉夜姬.md",
       "title": "第4周（2026.01.19-2026.01.25）竹取物语与辉夜姬",
       "label": "my-diary/Diary-2026",
-      "word_count": 2161,
+      "word_count": 2111,
       "image_count": 0,
-      "file_size": 7384,
-      "sha256_short": "c8656d5a1f3e093f"
+      "file_size": 8440,
+      "sha256_short": "dac441c00756d4e4"
     },
     {
       "path": "my-diary/Diary-2026/05_第5周（2026.01.26-2026.02.01）真空电容率与真空磁导率.md",
