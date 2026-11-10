@@ -1,6 +1,6 @@
 # 「Diary」2026
 
-> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 45 | 生成于 2026-11-10 17:14
+> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 45 | 生成于 2026-11-10 19:43
 
 | 标题 | 字数 | 图片 | 更新时间 |
 | :--: | :-: | :--: | :--: |
@@ -25,7 +25,7 @@
 | [第19周（2026.05.04-2026.05.10）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F19_%E7%AC%AC19%E5%91%A8%EF%BC%882026.05.04-2026.05.10%EF%BC%89.md) | 3606 | 0 | 2026-11-10 17:00 |
 | [第20周（2026.05.11-2026.05.17）病毒世界假说](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F20_%E7%AC%AC20%E5%91%A8%EF%BC%882026.05.11-2026.05.17%EF%BC%89%E7%97%85%E6%AF%92%E4%B8%96%E7%95%8C%E5%81%87%E8%AF%B4.md) | 5115 | 0 | 2026-11-05 11:54 |
 | [第21周（2026.05.18-2026.05.24）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F21_%E7%AC%AC21%E5%91%A8%EF%BC%882026.05.18-2026.05.24%EF%BC%89.md) | 12198 | 0 | 2026-11-10 17:14 |
-| [第22周（2026.05.25-2026.05.31）AQI](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F22_%E7%AC%AC22%E5%91%A8%EF%BC%882026.05.25-2026.05.31%EF%BC%89AQI.md) | 6525 | 0 | 2026-09-05 19:43 |
+| [第22周（2026.05.25-2026.05.31）AQI](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F22_%E7%AC%AC22%E5%91%A8%EF%BC%882026.05.25-2026.05.31%EF%BC%89AQI.md) | 6285 | 0 | 2026-11-10 19:43 |
 | [第23周（2026.06.01-2026.06.07）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F23_%E7%AC%AC23%E5%91%A8%EF%BC%882026.06.01-2026.06.07%EF%BC%89.md) | 3269 | 0 | 2026-09-05 22:05 |
 | [第24周（2026.06.08-2026.06.14）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F24_%E7%AC%AC24%E5%91%A8%EF%BC%882026.06.08-2026.06.14%EF%BC%89.md) | 899 | 0 | 2026-09-08 15:21 |
 | [第25周（2026.06.15-2026.06.21）端午](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F25_%E7%AC%AC25%E5%91%A8%EF%BC%882026.06.15-2026.06.21%EF%BC%89%E7%AB%AF%E5%8D%88.md) | 2385 | 0 | 2026-09-10 14:21 |
