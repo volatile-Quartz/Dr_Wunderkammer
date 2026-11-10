@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:03:37.346452+00:00",
+  "generated_at": "2026-11-10T02:07:46.812864+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -737,7 +737,7 @@
       "word_count": 1032,
       "image_count": 0,
       "file_size": 17319,
-      "sha256_short": "a8765606fd607967"
+      "sha256_short": "29fc6ec85c61881a"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、四根说与元素精灵.md",
@@ -1091,13 +1091,13 @@
       "sha256_short": "b2431626ed2b25b7"
     },
     {
-      "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒命名法则、数学摇滚.md",
-      "title": "第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒命名法则、数学摇滚",
+      "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒命名法则；数学摇滚.md",
+      "title": "第41周（2026.10.05-2026.10.11）马太效应与施蒂格勒命名法则；数学摇滚",
       "label": "my-diary/Diary-2026",
       "word_count": 2496,
       "image_count": 18,
       "file_size": 11864,
-      "sha256_short": "4631b96c1f95ecb3"
+      "sha256_short": "08b4751a79b883cf"
     },
     {
       "path": "my-diary/Diary-2026/41_第42周（2026.10.12-2026.10.18）臨兵鬥者皆陣列在前.md",
