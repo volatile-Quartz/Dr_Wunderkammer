@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:17:31.042544+00:00",
+  "generated_at": "2026-11-10T06:39:13.646725+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -737,7 +737,7 @@
       "word_count": 1032,
       "image_count": 0,
       "file_size": 17319,
-      "sha256_short": "64d84f14acf92946"
+      "sha256_short": "6be3d288a2b4edf7"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦；四根说与元素精灵.md",
@@ -752,10 +752,10 @@
       "path": "my-diary/Diary-2026/02_第2周（2026.01.05-2026.01.11）胡焕庸线.md",
       "title": "第2周（2026.01.05-2026.01.11）胡焕庸线",
       "label": "my-diary/Diary-2026",
-      "word_count": 3104,
+      "word_count": 3865,
       "image_count": 0,
-      "file_size": 9831,
-      "sha256_short": "d8450fe75a5b1b36"
+      "file_size": 13422,
+      "sha256_short": "dd4f06fb02df7b68"
     },
     {
       "path": "my-diary/Diary-2026/03_第3周（2026.01.12-2026.01.18）冷读法与巴纳姆效应.md",
