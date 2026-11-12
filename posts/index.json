@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T07:02:59.299796+00:00",
+  "generated_at": "2026-11-12T14:08:40.342652+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -179,7 +179,7 @@
       "word_count": 1220,
       "image_count": 0,
       "file_size": 20972,
-      "sha256_short": "0907980c5c525f7b"
+      "sha256_short": "4bb4f151801eb5ee"
     },
     {
       "path": "my-diary/Diary-2025/01_第1周（2024.12.30-2025.01.05）儒略历与格里高利历.md",
@@ -389,13 +389,13 @@
       "sha256_short": "d2eb2b2929f879ea"
     },
     {
-      "path": "my-diary/Diary-2025/24_第24周（2025.06.09-2025.06.15）韦伯-费希纳定律、考试与选举.md",
-      "title": "第24周（2025.06.09-2025.06.15）韦伯-费希纳定律、考试与选举",
+      "path": "my-diary/Diary-2025/24_第24周（2025.06.09-2025.06.15）韦伯-费希纳定律；考试与选举.md",
+      "title": "第24周（2025.06.09-2025.06.15）韦伯-费希纳定律；考试与选举",
       "label": "my-diary/Diary-2025",
       "word_count": 1888,
       "image_count": 0,
       "file_size": 6296,
-      "sha256_short": "93249cf667842cf5"
+      "sha256_short": "4f9a873aea3f086b"
     },
     {
       "path": "my-diary/Diary-2025/25_第25周（2025.06.16-2025.06.22）CFOP.md",
@@ -560,13 +560,13 @@
       "sha256_short": "2b8a24fc9e2866b5"
     },
     {
-      "path": "my-diary/Diary-2025/43_第43周（2025.10.20-2025.10.26）哈夫曼树与芬威克树、落叶乔木.md",
-      "title": "第43周（2025.10.20-2025.10.26）哈夫曼树与芬威克树、落叶乔木",
+      "path": "my-diary/Diary-2025/43_第43周（2025.10.20-2025.10.26）哈夫曼树与芬威克树；落叶乔木.md",
+      "title": "第43周（2025.10.20-2025.10.26）哈夫曼树与芬威克树；落叶乔木",
       "label": "my-diary/Diary-2025",
       "word_count": 3524,
       "image_count": 0,
       "file_size": 11494,
-      "sha256_short": "1da5844e2dc197e7"
+      "sha256_short": "6b7ae77a84b43bb3"
     },
     {
       "path": "my-diary/Diary-2025/44_第44周（2025.10.27-2025.11.02）.md",
@@ -596,13 +596,13 @@
       "sha256_short": "f3f553458ca18eda"
     },
     {
-      "path": "my-diary/Diary-2025/47_第47周（2025.11.17-2025.11.23）寒衣节、太妃糖.md",
-      "title": "第47周（2025.11.17-2025.11.23）寒衣节、太妃糖",
+      "path": "my-diary/Diary-2025/47_第47周（2025.11.17-2025.11.23）寒衣节；太妃糖.md",
+      "title": "第47周（2025.11.17-2025.11.23）寒衣节；太妃糖",
       "label": "my-diary/Diary-2025",
       "word_count": 1556,
       "image_count": 0,
       "file_size": 4844,
-      "sha256_short": "9d265b386014d7df"
+      "sha256_short": "40a9c474724811b8"
     },
     {
       "path": "my-diary/Diary-2025/48_第48周（2025.11.24-2025.11.30）阿拉克涅.md",
@@ -632,13 +632,13 @@
       "sha256_short": "e977d41eb5ea5098"
     },
     {
-      "path": "my-diary/Diary-2025/51_第51周（2025.12.15-2025.12.21）皮亚诺余项与拉格朗日余项、冬至与饺子.md",
-      "title": "第51周（2025.12.15-2025.12.21）皮亚诺余项与拉格朗日余项、冬至与饺子",
+      "path": "my-diary/Diary-2025/51_第51周（2025.12.15-2025.12.21）皮亚诺余项与拉格朗日余项；冬至与饺子.md",
+      "title": "第51周（2025.12.15-2025.12.21）皮亚诺余项与拉格朗日余项；冬至与饺子",
       "label": "my-diary/Diary-2025",
       "word_count": 1207,
       "image_count": 0,
       "file_size": 3803,
-      "sha256_short": "1b3c3e8c13a92cfa"
+      "sha256_short": "5fea1d917bd45066"
     },
     {
       "path": "my-diary/Diary-2025/52_第52周（2025.12.22-2025.12.28）位移极化与取向极化.md",
@@ -736,8 +736,8 @@
       "label": "my-diary/Diary-2026",
       "word_count": 1041,
       "image_count": 0,
-      "file_size": 17429,
-      "sha256_short": "d09e5a3ce202a971"
+      "file_size": 17430,
+      "sha256_short": "0a8460ebe44346d7"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦；四根说与元素精灵.md",
@@ -914,10 +914,10 @@
       "path": "my-diary/Diary-2026/20_第20周（2026.05.11-2026.05.17）病毒世界假说.md",
       "title": "第20周（2026.05.11-2026.05.17）病毒世界假说",
       "label": "my-diary/Diary-2026",
-      "word_count": 5115,
+      "word_count": 5121,
       "image_count": 0,
-      "file_size": 22395,
-      "sha256_short": "a103f0911df5910d"
+      "file_size": 22622,
+      "sha256_short": "3ae1cccbe28b4512"
     },
     {
       "path": "my-diary/Diary-2026/21_第21周（2026.05.18-2026.05.24）.md",
@@ -932,10 +932,10 @@
       "path": "my-diary/Diary-2026/22_第22周（2026.05.25-2026.05.31）AQI.md",
       "title": "第22周（2026.05.25-2026.05.31）AQI",
       "label": "my-diary/Diary-2026",
-      "word_count": 6285,
+      "word_count": 6196,
       "image_count": 0,
-      "file_size": 25971,
-      "sha256_short": "ac360bd28cf94a12"
+      "file_size": 25494,
+      "sha256_short": "87cc1947ee7acaa8"
     },
     {
       "path": "my-diary/Diary-2026/23_第23周（2026.06.01-2026.06.07）.md",
@@ -1130,19 +1130,19 @@
       "path": "my-diary/Diary-2026/44_第45周（2026.11.02-2026.11.08）.md",
       "title": "第45周（2026.11.02-2026.11.08）",
       "label": "my-diary/Diary-2026",
-      "word_count": 2090,
+      "word_count": 2034,
       "image_count": 0,
-      "file_size": 8093,
-      "sha256_short": "ac2a82fa61d005ce"
+      "file_size": 7828,
+      "sha256_short": "bde54c9a3ae3cd9f"
     },
     {
       "path": "my-diary/Diary-2026/45_第46周（2026.11.09-2026.11.15）.md",
       "title": "第46周（2026.11.09-2026.11.15）",
       "label": "my-diary/Diary-2026",
-      "word_count": 18,
+      "word_count": 668,
       "image_count": 0,
-      "file_size": 86,
-      "sha256_short": "3facc13cac84761d"
+      "file_size": 2565,
+      "sha256_short": "0e8e0af0129b7d81"
     },
     {
       "path": "the-lore/About-Calculations/00_index.md",
