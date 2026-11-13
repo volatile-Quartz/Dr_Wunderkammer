@@ -7,12 +7,12 @@
 ## 文章列表
 | 序号 | 文章标题 | 更新时间 | 篇章统计 | 字数统计 | 插图统计 |
 |:------:|:------------------:|:------------------:|:------:|:------:|:------:|
-| 1 | [「Diary」2026](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 2026-11-12 22:08 | 46 | 124565 | 22 |
-| 2 | [「Diary」2025](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27) | 2026-11-12 12:50 | 57 | 91036 | 0 |
-| 3 | [「Diary」2006-2007](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16) | 2026-10-12 08:52 | 3 | 2054 | 0 |
-| 4 | [「Diary」2002-2003](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/14) | 2026-10-12 08:52 | 3 | 2331 | 0 |
-| 5 | [「Diary」2017-2018](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/20) | 2026-09-09 23:45 | 1 | 12 | 0 |
-| 6 | [「Diary」2019](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21) | 2026-09-01 14:08 | 8 | 3928 | 24 |
+| 1 | [「Diary」2019](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21) | 2026-11-13 17:26 | 81 | 13990 | 464 |
+| 2 | [「Diary」2026](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 2026-11-13 16:06 | 46 | 124632 | 22 |
+| 3 | [「Diary」2025](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27) | 2026-11-13 13:14 | 57 | 91575 | 0 |
+| 4 | [「Diary」2006-2007](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16) | 2026-10-12 08:52 | 3 | 2054 | 0 |
+| 5 | [「Diary」2002-2003](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/14) | 2026-10-12 08:52 | 3 | 2331 | 0 |
+| 6 | [「Diary」2017-2018](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/20) | 2026-09-09 23:45 | 1 | 12 | 0 |
 | 7 | [「Diary」2024](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/26) | 2026-06-16 17:47 | 1 | 10 | 0 |
 | 8 | [「Diary」2023](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/25) | 2026-06-16 17:46 | 1 | 10 | 0 |
 | 9 | [「Diary」2022](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/24) | 2026-06-16 17:46 | 1 | 10 | 0 |
@@ -25,9 +25,9 @@
 
 ## 博客统计
 - 年份合集：14 个
-- 周记/月记：126 篇
-- 新增篇章：0
-- 更新篇章：8
-- 总字数：224006
-- 总插图数：46
-- 最后更新：2026-11-12 22:08:39
+- 周记/月记：199 篇
+- 新增篇章：73
+- 更新篇章：82
+- 总字数：234674
+- 总插图数：486
+- 最后更新：2026-11-13 17:26:33

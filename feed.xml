@@ -5,7 +5,25 @@
     <link>https://github.com/volatile-Quartz/Dr_Wunderkammer</link>
     <description>Blog generated from GitHub issues</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 22:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:26:34 GMT</lastBuildDate>
+
+    <item>
+        <title>「Diary」2019</title>
+        <link>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21</link>
+        <description>存放2019年的日记。
+整理中..
+
+已整理 17 / 111 天。
+
+点击索引编号，直达对应的那一天。
+
+日期 | 索引编号 | 备注
+:-:|:-:|:-:
+2019-01-24 | [5440485842](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21#issuecomment-5440485842) |
+2019-...</description>
+        <pubDate>Fri, 13 Nov 2026 09:26:02 GMT</pubDate>
+        <guid>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21</guid>
+    </item>
 
     <item>
         <title>「Diary」2026</title>
@@ -13,7 +31,7 @@
         <description>存放2026年的日记。
 整理中..
 </description>
-        <pubDate>Thu, 12 Nov 2026 14:08:13 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 08:06:06 GMT</pubDate>
         <guid>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28</guid>
     </item>
 
@@ -21,14 +39,14 @@
         <title>「Diary」2025</title>
         <link>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27</link>
         <description>存放2025年的日记。
-本年度札记概览如下：
-| # | 标题 | 周次 | 分类 | 篇幅[^1] |
-| :-: | :-: | :-: | :-: | :-: |
-| 1 | 儒略历与格里高利历 | 第1周 | 天文・历法 | 中 |
-| 2 | 扑克与麻将 | 第5周 | 休闲・棋牌 | 中 |
-| 3 | 科里奥利力 | 第6周 | 物理・力学 | 长 |
-| 4 | 傅科摆 | 第7周...</description>
-        <pubDate>Thu, 12 Nov 2026 04:50:35 GMT</pubDate>
+
+点击索引编号，直达对应的那一周。
+
+周次 | 日期 | 索引编号
+:-:|:-:|:-:
+第1周 | 2024.12.30-2025.01.05 | [5615895303](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27#issuecomment-5615895303)
+第2周 | 2025.01...</description>
+        <pubDate>Fri, 13 Nov 2026 05:14:47 GMT</pubDate>
         <guid>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/27</guid>
     </item>
 
@@ -87,15 +105,6 @@
 待整理..</description>
         <pubDate>Wed, 09 Sep 2026 15:45:40 GMT</pubDate>
         <guid>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/20</guid>
-    </item>
-
-    <item>
-        <title>「Diary」2019</title>
-        <link>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21</link>
-        <description>存放2019年的日记。
-整理中..</description>
-        <pubDate>Tue, 01 Sep 2026 06:08:53 GMT</pubDate>
-        <guid>https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21</guid>
     </item>
 
     <item>
