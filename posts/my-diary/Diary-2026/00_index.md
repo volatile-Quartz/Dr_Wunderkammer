@@ -1,6 +1,6 @@
 # 「Diary」2026
 
-> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 45 | 生成于 2026-11-12 22:08
+> 来源：[issue #28](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 评论数 45 | 生成于 2026-11-13 09:35
 
 | 标题 | 字数 | 图片 | 更新时间 |
 | :--: | :-: | :--: | :--: |
@@ -48,6 +48,6 @@
 | [第43周（2026.10.19-2026.10.25）长尾理论与贝克尔理性选择理论](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F42_%E7%AC%AC43%E5%91%A8%EF%BC%882026.10.19-2026.10.25%EF%BC%89%E9%95%BF%E5%B0%BE%E7%90%86%E8%AE%BA%E4%B8%8E%E8%B4%9D%E5%85%8B%E5%B0%94%E7%90%86%E6%80%A7%E9%80%89%E6%8B%A9%E7%90%86%E8%AE%BA.md) | 1558 | 0 | 2026-11-09 17:31 |
 | [第44周（2026.10.26-2026.11.01）海弗利克极限](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F43_%E7%AC%AC44%E5%91%A8%EF%BC%882026.10.26-2026.11.01%EF%BC%89%E6%B5%B7%E5%BC%97%E5%88%A9%E5%85%8B%E6%9E%81%E9%99%90.md) | 1945 | 0 | 2026-11-09 14:29 |
 | [第45周（2026.11.02-2026.11.08）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F44_%E7%AC%AC45%E5%91%A8%EF%BC%882026.11.02-2026.11.08%EF%BC%89.md) | 2034 | 0 | 2026-11-12 11:43 |
-| [第46周（2026.11.09-2026.11.15）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F45_%E7%AC%AC46%E5%91%A8%EF%BC%882026.11.09-2026.11.15%EF%BC%89.md) | 668 | 0 | 2026-11-12 22:08 |
+| [第46周（2026.11.09-2026.11.15）](https://volatile-quartz.github.io/Dr_Wunderkammer/viewer.html?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvolatile-Quartz%2FDr_Wunderkammer%2Fmaster%2Fposts%2Fmy-diary%2FDiary-2026%2F45_%E7%AC%AC46%E5%91%A8%EF%BC%882026.11.09-2026.11.15%EF%BC%89.md) | 667 | 0 | 2026-11-13 09:35 |
 
 > 口径：字数=去 Markdown 后中文+英文+数字总数，图片=Markdown 图片数。重跑脚本即全量刷新。
