@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:10:48.392020+00:00",
+  "generated_at": "2026-11-15T15:39:48.435066+00:00",
   "entries": [
     {
       "path": "no-label/Bump-the-github-actions-group-with-2-updates/00_index.md",
@@ -1394,7 +1394,7 @@
       "word_count": 1041,
       "image_count": 0,
       "file_size": 17430,
-      "sha256_short": "d97dfdf118145647"
+      "sha256_short": "804c91616f150a50"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦；四根说与元素精灵.md",
@@ -1796,10 +1796,10 @@
       "path": "my-diary/Diary-2026/45_第46周（2026.11.09-2026.11.15）.md",
       "title": "第46周（2026.11.09-2026.11.15）",
       "label": "my-diary/Diary-2026",
-      "word_count": 735,
+      "word_count": 764,
       "image_count": 0,
-      "file_size": 2860,
-      "sha256_short": "f4d6efc605ea8ed9"
+      "file_size": 3069,
+      "sha256_short": "79926b57f3ea7e82"
     },
     {
       "path": "the-lore/About-Calculations/00_index.md",
