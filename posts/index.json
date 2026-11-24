@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:22:08.986960+00:00",
+  "generated_at": "2026-11-24T08:11:01.668619+00:00",
   "entries": [
     {
       "path": "my-diary/Diary-2025/00_index.md",
@@ -1358,7 +1358,7 @@
       "word_count": 1088,
       "image_count": 0,
       "file_size": 18352,
-      "sha256_short": "70fd6274408a5891"
+      "sha256_short": "1de557b83e0fdd47"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦；四根说与元素精灵.md",
@@ -1769,10 +1769,10 @@
       "path": "my-diary/Diary-2026/46_第46周（2026.11.09-2026.11.15）.md",
       "title": "第46周（2026.11.09-2026.11.15）",
       "label": "my-diary/Diary-2026",
-      "word_count": 1436,
+      "word_count": 1768,
       "image_count": 0,
-      "file_size": 6878,
-      "sha256_short": "f655628c58272e21"
+      "file_size": 7947,
+      "sha256_short": "85f72955ed3dbd8b"
     },
     {
       "path": "my-diary/Diary-2026/47_第47周（2026.11.16-2026.11.22）.md",
