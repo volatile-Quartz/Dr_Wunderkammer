@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:43:46.778405+00:00",
+  "generated_at": "2026-11-23T03:22:08.986960+00:00",
   "entries": [
     {
       "path": "my-diary/Diary-2025/00_index.md",
@@ -1355,10 +1355,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 1076,
+      "word_count": 1088,
       "image_count": 0,
-      "file_size": 18089,
-      "sha256_short": "88f2c052ba6b0328"
+      "file_size": 18352,
+      "sha256_short": "70fd6274408a5891"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦；四根说与元素精灵.md",
@@ -1778,10 +1778,19 @@
       "path": "my-diary/Diary-2026/47_第47周（2026.11.16-2026.11.22）.md",
       "title": "第47周（2026.11.16-2026.11.22）",
       "label": "my-diary/Diary-2026",
-      "word_count": 780,
+      "word_count": 1176,
       "image_count": 0,
-      "file_size": 4406,
-      "sha256_short": "21b34d45b48238ac"
+      "file_size": 6186,
+      "sha256_short": "8d5604ec7e9b4aa6"
+    },
+    {
+      "path": "my-diary/Diary-2026/48_2026-11-23 11-21.md",
+      "title": "2026-11-23 11:21",
+      "label": "my-diary/Diary-2026",
+      "word_count": 90,
+      "image_count": 0,
+      "file_size": 404,
+      "sha256_short": "d1bbc442b7e6977c"
     },
     {
       "path": "my-diary/Diary-2016/00_index.md",
@@ -1847,5 +1856,5 @@
       "sha256_short": "9a68919efd4dda1a"
     }
   ],
-  "total_files": 205
+  "total_files": 206
 }
