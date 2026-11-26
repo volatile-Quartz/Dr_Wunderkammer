@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:05:43.633177+00:00",
+  "generated_at": "2026-11-26T15:51:14.395971+00:00",
   "entries": [
     {
       "path": "my-diary/Diary-2025/00_index.md",
@@ -1355,10 +1355,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 1088,
+      "word_count": 1098,
       "image_count": 0,
-      "file_size": 18352,
-      "sha256_short": "e9827747f4640662"
+      "file_size": 18474,
+      "sha256_short": "b062de3de386bcdd"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦；四根说与元素精灵.md",
@@ -1784,13 +1784,13 @@
       "sha256_short": "5abdab77ed92fb00"
     },
     {
-      "path": "my-diary/Diary-2026/48_2026-11-23 11-21.md",
-      "title": "2026-11-23 11:21",
+      "path": "my-diary/Diary-2026/48_第48周（2026.11.23-2026.11.29）超级海狸月.md",
+      "title": "第48周（2026.11.23-2026.11.29）超级海狸月",
       "label": "my-diary/Diary-2026",
-      "word_count": 90,
+      "word_count": 1183,
       "image_count": 0,
-      "file_size": 404,
-      "sha256_short": "d1bbc442b7e6977c"
+      "file_size": 4573,
+      "sha256_short": "62d397a5cc788b33"
     },
     {
       "path": "my-diary/Diary-2016/00_index.md",
